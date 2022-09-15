@@ -7,8 +7,8 @@ from scrapy.loader import ItemLoader
 from scrapy.crawler import CrawlerProcess
 import re
 
-categorias_a_buscar = ['Biography']
-categorias_a_buscar.append(input('Ingresa una categoría a buscar: ').capitalize())
+categorias_a_buscar = ['biography']
+categorias_a_buscar.append(input('Ingresa una categoría a buscar: ').lower())
 
 class Book(Item):
     titulo = Field()
@@ -24,8 +24,6 @@ class BookSpider(CrawlSpider):
         'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
                       'AppleWebKit/537.36 (KHTML, like Gecko) '
                       'Chrome/80.0.3987.132 Safari/537.36',
-
-        'CLOSESPIDER_PAGECOUNT': 100
     }
     allowed_domains = ['toscrape.com']
     start_urls = ['http://books.toscrape.com/']
@@ -33,7 +31,11 @@ class BookSpider(CrawlSpider):
 
     rules = (
         Rule(
-            LinkExtractor(allow=r'/biography_\d+/'),
+            LinkExtractor(allow=fr'/{categorias_a_buscar[0]}_\d+/'),
+            follow=True,
+            callback='ingresar_a_libros'),
+        Rule(
+            LinkExtractor(allow=fr'/{categorias_a_buscar[1]}_\d+/'),
             follow=True,
             callback='ingresar_a_libros'),
     )
@@ -41,19 +43,20 @@ class BookSpider(CrawlSpider):
     def ingresar_a_libros(self, response):
         links_libros_en_categoria = response.xpath('//ol//li//h3//a')
         for libro in links_libros_en_categoria:
-            yield response.follow(libro, callback =self.parsear_libro)
+            yield response.follow(libro, callback=self.parsear_libro)
 
     def obtener_stock(self, texto):
         pattern = re.findall(r'\d+', texto)
-        return pattern
+        if len(pattern) > 0:
+            return int(pattern[0])
 
     def obtener_calificacion(self, texto):
         ratings = {
-            'star-rating One':1.00,
-            'star-rating Two':2.00,
-            'star-rating Three':3.00,
-            'star-rating Four':4.00,
-            'star-rating Five':5.00,
+            'star-rating One':float(1),
+            'star-rating Two':float(2),
+            'star-rating Three':float(3),
+            'star-rating Four':float(4),
+            'star-rating Five':float(5),
         }
         return ratings[texto]
     
@@ -77,7 +80,9 @@ class BookSpider(CrawlSpider):
 # This is equivalent to write in terminal:
 # scrapy runspider file_name -o results.ext -t ext
 process = CrawlerProcess(settings={
-    "FEEDS": {"libros.csv": {"format": "csv"},
+    "FEEDS": {
+        "libros.csv": {"format": "csv"},
+        "libros.json":{"format":"json"},
               },
 })
 
