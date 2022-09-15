@@ -3,3 +3,4 @@ prueba.py
 __pycache__/
 libros.json
 books_to_scrape.py
+.vscode/
