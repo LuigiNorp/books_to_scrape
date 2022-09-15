@@ -7,6 +7,7 @@ from scrapy.loader import ItemLoader
 from scrapy.crawler import CrawlerProcess
 import re
 
+
 categorias_a_buscar = ['biography']
 categorias_a_buscar.append(input('Ingresa una categoría a buscar: ').lower())
 
@@ -17,6 +18,8 @@ class Book(Item):
     precio = Field()
     stock = Field()
     rating = Field()
+    url_imagen = Field()
+    imagen = Field()
 
 class BookSpider(CrawlSpider):
     name = 'books'
@@ -39,6 +42,12 @@ class BookSpider(CrawlSpider):
             follow=True,
             callback='ingresar_a_libros'),
     )
+
+    def obtener_imagen(self, response):
+        links_libros_en_categoria = response.xpath('//ol//li//h3//a')
+        for libro in links_libros_en_categoria:
+            pass
+
 
     def ingresar_a_libros(self, response):
         links_libros_en_categoria = response.xpath('//ol//li//h3//a')
