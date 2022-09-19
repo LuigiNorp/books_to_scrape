@@ -10,15 +10,15 @@ relevantes para la solución son las categorías (Travel, Mystery, Classics, etc
 
 Requerido
 El código entregado debe realizar lo siguiente:
-1. Obtener todos los libros de la categoría Biography.
-2. Elegir 1 categoría al azar distinta a Biography, y obtener también todos sus libros.
-3. Para cada libro, extraer solo los siguientes campos, con el tipo de dato indicado:
-○ Título (str)
-○ Categoría (str)
-○ UPC (str)
-○ Precio (float)
-○ Cantidad de stock disponible (int)
-○ Rating (float)
+1. Obtener todos los libros de la categoría Biography.  
+2. Elegir 1 categoría al azar distinta a Biography, y obtener también todos sus libros.  
+3. Para cada libro, extraer solo los siguientes campos, con el tipo de dato indicado:  
+○ Título (str)  
+○ Categoría (str)  
+○ UPC (str)  
+○ Precio (float)  
+○ Cantidad de stock disponible (int)  
+○ Rating (float)  
 4. Guardar los elementos obtenidos en CSV o JSON.
 
 Extras
