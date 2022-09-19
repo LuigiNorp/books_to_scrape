@@ -39,12 +39,12 @@ docker run scrapy
 ```
 Para iniciar el script localmente:
 
-Para exportar con CSV
+Para exportar en CSV
 ```bash
 scrapy crawl bookspider -o nombre_archivo.csv
 ```
 
-Para exportar con JSON
+Para exportar en JSON
 ```bash
 scrapy crawl bookspider -o nombre_archivo.json
 ```
