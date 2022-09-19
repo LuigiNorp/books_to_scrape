@@ -28,7 +28,7 @@ El código entregado debe realizar lo siguiente:
 ● Agregar una API que permita lanzar una ejecución completa mediante GET o POST.  
 ● Para cada elemento obtenido, agregar también su imagen.  
 
-Para iniciar el script:
+Para iniciar el script  usando **docker**:
 
 ```bash
 docker build -t scrapy .
@@ -36,4 +36,15 @@ docker build -t scrapy .
 
 ```bash
 docker run scrapy
+```
+Para iniciar el script localmente:
+
+Para exportar con CSV
+```bash
+scrapy crawl bookspider -o nombre_archivo.csv
+```
+
+Para exportar con JSON
+```bash
+scrapy crawl bookspider -o nombre_archivo.json
 ```
