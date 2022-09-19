@@ -1,13 +1,28 @@
-from scrapy.spiders import CrawlSpider, Rule, Spider
+from scrapy.spiders import CrawlSpider, Rule
 from scrapy.selector import Selector
 from itemloaders.processors import MapCompose
 from scrapy.linkextractors import LinkExtractor
 from scrapy.loader import ItemLoader
-from BookScrapper.items import Book, Images
+from BookScrapper.items import Book
+from random import choice
 import re
 
-categorias_a_buscar = ['biography']
-categorias_a_buscar.append(input('Ingresa una categoría a buscar: ').lower())
+
+# To select another category randomly
+
+categories = [  "Travel" , "Mystery" , "Historical-Fiction" , "Sequential-Art" , 
+                "Classics" , "Philosophy" , "Romance" , "Womens-Fiction" , "Fiction" , 
+                "Childrens" , "Religion" , "Nonfiction" , "Music" , "Default" , 
+                "Science-Fiction" , "Sports-and-Games" , "Add-a-comment" , "Fantasy" , 
+                "New-Adult" , "Young-Adult" , "Science" , "Poetry" , "Paranormal" , "Art" , 
+                "Psychology" , "Autobiography" , "Parenting" , "Adult-Fiction" , "Humor" , 
+                "Horror" , "History" , "Food-and-Drink" , "Christian-Fiction" , "Business" , 
+                "Thriller" , "Contemporary" , "Spirituality" , "Academic" , "Self-Help" , 
+                "Historical" , "Christian" , "Suspense" , "Short-Stories" , "Novels" , 
+                "Health" , "Politics" , "Cultural" , "Erotica" , "Crime"]
+searched_category = ['biography']
+searched_category.append(choice(categories).lower())
+print(searched_category)
 
 class BookSpider(CrawlSpider):
     name = 'bookspider'
@@ -16,11 +31,11 @@ class BookSpider(CrawlSpider):
 
     rules = (
         Rule(
-            LinkExtractor(allow=fr'/{categorias_a_buscar[0]}_\d+/'),
+            LinkExtractor(allow=fr'/{searched_category[0]}_\d+/'),
             follow=True,
             callback='open_book_details'),
         Rule(
-            LinkExtractor(allow=fr'/{categorias_a_buscar[1]}_\d+/'),
+            LinkExtractor(allow=fr'/{searched_category[1]}_\d+/'),
             follow=True,
             callback='open_book_details'),
     )
@@ -58,23 +73,5 @@ class BookSpider(CrawlSpider):
         item.add_xpath('price','(//p[contains(@class,"price")])[1]/text()', MapCompose(self.price_str_to_float))
         item.add_xpath('stock','(//div[contains(@class,"main")]//p[contains(@class,"stock")])[1]/text()', MapCompose(self.get_stock_info))
         item.add_xpath('rating','//div[contains(@class,"main")]//p[contains(@class,"star-rating")]/@class', MapCompose(self.get_rating_info))
+        image_url = str(response.xpath('(//img)[1]/@src')).replace('../../', self.start_urls[0])
         yield item.load_item()
-
-class ImageScraperSpider(CrawlSpider):
-    name = 'imageSpider'
-    # allowed_domains = ['books.toscrape.com/']
-    # start_urls = ['http://books.toscrape.com/catalogue/louisa-the-extraordinary-life-of-mrs-adams_818/index.html']
-
-    def parse(self, response):
-        item = Images()
-        if response.status == 200:
-            rel_img_urls = response.xpath("//div[@class='item active']//img/@src").extract()
-            item['image_urls'] = self.url_join(rel_img_urls, response)
-        return item
-
-    def url_join(self, rel_img_urls, response):
-        joined_urls = []
-        for rel_img_url in rel_img_urls:
-            joined_urls.append(response.urljoin(rel_img_url))
-
-        return joined_urls
