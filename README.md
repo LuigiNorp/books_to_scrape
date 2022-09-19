@@ -37,7 +37,7 @@ docker build -t scrapy .
 ```bash
 docker run scrapy
 ```
-Para iniciar el script localmente:
+Para iniciar el script **localmente**:
 
 Para exportar en CSV
 ```bash
