@@ -28,12 +28,6 @@ El código entregado debe realizar lo siguiente:
 ● Agregar una API que permita lanzar una ejecución completa mediante GET o POST.  
 ● Para cada elemento obtenido, agregar también su imagen.  
 
-### Entregable
-El candidato debe recibir este enunciado por email, y cuenta con 7 días corridos para
-desarrollar una solución. Luego de este período, se debe responder a dicho email, adjuntando
-un archivo comprimido en ZIP o GZ que contenga la versión final del proyecto. Se puede utilizar
-la misma cadena de emails para realizar cualquier consulta.
-
 Para iniciar el script:
 
 ```bash
