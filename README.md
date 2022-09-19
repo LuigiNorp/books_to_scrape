@@ -38,5 +38,8 @@ Para iniciar el script:
 
 ```bash
 docker build -t scrapy .
+```
+
+```bash
 docker run scrapy
 ```
