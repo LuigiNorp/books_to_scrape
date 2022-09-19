@@ -3,8 +3,6 @@
 
 ### Python ###
 # Other files
-libros.json
-libros.csv
 books_to_scrape.py
 prueba.py
 BookScrapper/libros.csv
