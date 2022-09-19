@@ -7,7 +7,6 @@ from BookScrapper.items import Book
 from random import choice
 import re
 
-
 # To select another category randomly
 
 categories = [  "Travel" , "Mystery" , "Historical-Fiction" , "Sequential-Art" , 
@@ -20,6 +19,7 @@ categories = [  "Travel" , "Mystery" , "Historical-Fiction" , "Sequential-Art" ,
                 "Thriller" , "Contemporary" , "Spirituality" , "Academic" , "Self-Help" , 
                 "Historical" , "Christian" , "Suspense" , "Short-Stories" , "Novels" , 
                 "Health" , "Politics" , "Cultural" , "Erotica" , "Crime"]
+
 searched_category = ['biography']
 searched_category.append(choice(categories).lower())
 print(searched_category)
@@ -41,9 +41,9 @@ class BookSpider(CrawlSpider):
     )
 
     def open_book_details(self, response):
-        links_libros_en_categoria = response.xpath('//ol//li//h3//a')
-        for libro in links_libros_en_categoria:
-            yield response.follow(libro, callback=self.parse_book_details)
+        books = response.xpath('//ol//li//h3//a')
+        for book in books:
+            yield response.follow(book, callback=self.parse_book_details)
 
 
     def get_stock_info(self, texto):
@@ -51,7 +51,7 @@ class BookSpider(CrawlSpider):
         if len(pattern) > 0:
             return int(pattern[0])
 
-    def get_rating_info(self, texto):
+    def get_rating_info(self, text):
         ratings = {
             'star-rating One':float(1),
             'star-rating Two':float(2),
@@ -59,10 +59,10 @@ class BookSpider(CrawlSpider):
             'star-rating Four':float(4),
             'star-rating Five':float(5),
         }
-        return ratings[texto]
+        return ratings[text]
     
-    def price_str_to_float(self, texto):
-        return float(texto.replace('£',''))
+    def price_str_to_float(self, text):
+        return float(text.replace('£',''))
 
     def parse_book_details(self, response):
         sel = Selector(response)
@@ -73,5 +73,4 @@ class BookSpider(CrawlSpider):
         item.add_xpath('price','(//p[contains(@class,"price")])[1]/text()', MapCompose(self.price_str_to_float))
         item.add_xpath('stock','(//div[contains(@class,"main")]//p[contains(@class,"stock")])[1]/text()', MapCompose(self.get_stock_info))
         item.add_xpath('rating','//div[contains(@class,"main")]//p[contains(@class,"star-rating")]/@class', MapCompose(self.get_rating_info))
-        image_url = str(response.xpath('(//img)[1]/@src')).replace('../../', self.start_urls[0])
         yield item.load_item()
