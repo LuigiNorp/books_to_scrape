@@ -8,7 +8,6 @@ prueba.py
 BookScrapper/libros.csv
 BookScrapper/libros.json
 .vscode
-BookScrapper/BookScrapper/spiders/imagespider.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

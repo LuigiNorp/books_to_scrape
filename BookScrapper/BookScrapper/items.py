@@ -13,6 +13,7 @@ class Book(Item):
     price = Field()
     stock = Field()
     rating = Field()
+    image_url = Field()
 
 class Images(Item):
     image_name = Field()

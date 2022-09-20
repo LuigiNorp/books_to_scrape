@@ -7,6 +7,8 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
+from random import choice
+
 BOT_NAME = 'BookScrapper'
 
 SPIDER_MODULES = ['BookScrapper.spiders']
@@ -14,7 +16,7 @@ NEWSPIDER_MODULE = 'BookScrapper.spiders'
 
 # CONFIGURE IMAGES
 ITEM_PIPELINES = {'scrapy.pipelines.images.ImagesPipeline': 1}
-IMAGES_STORE = './imagenes'
+IMAGES_STORE = 'images'
 
 # IMAGES_EXPIRES = 2  # 2 days of delay for image expiration (default:90 days)
 
@@ -25,7 +27,7 @@ USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '\
              'Chrome/80.0.3987.132 Safari/537.36'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -95,3 +97,20 @@ DOWNLOAD_DELAY = 1
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+CATEGORIES = [  "Travel" , "Mystery" , "Historical-Fiction" , "Sequential-Art" , 
+                "Classics" , "Philosophy" , "Romance" , "Womens-Fiction" , "Fiction" , 
+                "Childrens" , "Religion" , "Nonfiction" , "Music" , "Default" , 
+                "Science-Fiction" , "Sports-and-Games" , "Add-a-comment" , "Fantasy" , 
+                "New-Adult" , "Young-Adult" , "Science" , "Poetry" , "Paranormal" , "Art" , 
+                "Psychology" , "Autobiography" , "Parenting" , "Adult-Fiction" , "Humor" , 
+                "Horror" , "History" , "Food-and-Drink" , "Christian-Fiction" , "Business" , 
+                "Thriller" , "Contemporary" , "Spirituality" , "Academic" , "Self-Help" , 
+                "Historical" , "Christian" , "Suspense" , "Short-Stories" , "Novels" , 
+                "Health" , "Politics" , "Cultural" , "Erotica" , "Crime"]
+
+SEARCHED_CATEGORY = ['biography']
+SEARCHED_CATEGORY.append(choice(CATEGORIES).lower())
+print(SEARCHED_CATEGORY)
+
+URLS_LIST = []
