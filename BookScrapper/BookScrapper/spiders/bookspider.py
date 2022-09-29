@@ -1,17 +1,16 @@
-from scrapy.spiders import CrawlSpider, Rule
+from scrapy.spiders import Spider
 from scrapy.selector import Selector
 from itemloaders.processors import MapCompose
-from scrapy.linkextractors import LinkExtractor
 from scrapy.loader import ItemLoader
 from BookScrapper.items import Book
-from BookScrapper.settings import SEARCHED_CATEGORY, URLS_LIST
+from random import choices
 import re
 
-class BookSpider(CrawlSpider):
+class BookSpider(Spider):
     name = 'bookspider'
     allowed_domains = ['toscrape.com']
     start_urls = ['http://books.toscrape.com/']
-
+    
     custom_settings = {
         'FEEDS':{
             'libros.csv': {
@@ -22,22 +21,27 @@ class BookSpider(CrawlSpider):
             }
         }
     }
-
-    rules = (
-        Rule(
-            LinkExtractor(allow=fr'/{SEARCHED_CATEGORY[0]}_\d+/'),
-            follow=True,
-            callback='open_book_details'),
-        Rule(
-            LinkExtractor(allow=fr'/{SEARCHED_CATEGORY[1]}_\d+/'),
-            follow=True,
-            callback='open_book_details'),
-    )
+    
+    def parse(self, response):
+        sel = Selector(response)
+        categories_list =sel.xpath('(//ul)[2]//ul//a/@href').extract()
+        two_categories=[]
+        for cat in categories_list:
+            if cat.__contains__('/biography_'):
+                two_categories.append(f'http://books.toscrape.com/{cat}')
+        two_categories.append(f'http://books.toscrape.com/{choices(categories_list)[0]}')
+        for category in two_categories:
+            
+            yield response.follow(category, callback=self.open_book_details)
 
     def open_book_details(self, response):
-            books = response.xpath('//ol//li//h3//a')
-            for book in books:
-                yield response.follow(book, callback=self.parse_book_details)
+        books = response.xpath('//ol//li//h3//a')
+        for book in books:
+            yield response.follow(book, callback=self.parse_book_details)
+
+    def clean_categories(self, texto:str):
+        categories = texto
+        return categories
 
     def get_stock_info(self, texto:str):
         pattern = re.findall(r'\d+', texto)
@@ -72,5 +76,4 @@ class BookSpider(CrawlSpider):
         item.add_xpath('image_url', '(//img)[1]/@src', MapCompose(self.convert_to_url))
         src = response.xpath('(//img)[1]/@src').get()
         url = self.convert_to_url(src)
-        URLS_LIST.append(url)
         yield item.load_item()

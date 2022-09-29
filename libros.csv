@@ -737,3 +737,510 @@ Travel,http://books.toscrape.com/media/cache/c9/9a/c99a7a05537cd842eb4db83d537e3
 Travel,http://books.toscrape.com/media/cache/45/21/4521c581ba727f5c835e34860cbf53e5.jpg,[37.33],[3.0],[7],Under the Tuscan Sun,a94350ee74deaa07
 Travel,http://books.toscrape.com/media/cache/ca/30/ca30b1afe1e76ce7ba1db8176d398e53.jpg,[36.94],[2.0],[8],Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,1809259a5a5f1d8d
 Travel,http://books.toscrape.com/media/cache/9e/10/9e106f81f65b293e488718a4f54a6a3f.jpg,[26.08],[5.0],[1],"1,000 Places to See Before You Die",228ba5e7577e1d49
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Young Adult,http://books.toscrape.com/media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg,[17.46],[5.0],[19],Set Me Free,ce6396b0f23f6ecc
+Young Adult,http://books.toscrape.com/media/cache/da/b8/dab87c14168f3ce18530447ec6437361.jpg,[45.22],[3.0],[16],The Natural History of Us (The Fine Art of Pretending #2),cedf82b5086e4691
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Young Adult,http://books.toscrape.com/media/cache/97/e6/97e65c8381cc80ba1107c3ce81c4878d.jpg,[38.28],[1.0],[15],"Nightingale, Sing",50b8f80311b31ede
+Young Adult,http://books.toscrape.com/media/cache/7e/ba/7eba21a2ecaa4651e44f04a7cd808520.jpg,[43.55],[5.0],[15],Scarlett Epstein Hates It Here,1c929cfd16b71907
+Young Adult,http://books.toscrape.com/media/cache/ac/b6/acb65d6d11263ba98b0191b544f6c728.jpg,[28.13],[4.0],[16],A Fierce and Subtle Poison,842790dfaa937484
+Young Adult,http://books.toscrape.com/media/cache/9a/2c/9a2c2936fa9bd422be96805924e1411a.jpg,[28.81],[3.0],[16],Burning,5ceb951f629700a2
+Young Adult,http://books.toscrape.com/media/cache/88/3f/883fb0f2304efca8724c629f03a4b82a.jpg,[14.86],[2.0],[16],Obsidian (Lux #1),3c346ab1e76ae1f6
+Young Adult,http://books.toscrape.com/media/cache/2b/38/2b38dc9b90299a9755fb15bed3293342.jpg,[40.36],[1.0],[14],My Kind of Crazy,137b0b2775701e11
+Young Adult,http://books.toscrape.com/media/cache/79/7a/797a5468a7d06aba28d1cc7342b1f2ba.jpg,[48.56],[5.0],[15],Library of Souls (Miss Peregrine’s Peculiar Children #3),ba54932df84e8cea
+Young Adult,http://books.toscrape.com/media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg,[22.65],[1.0],[19],The Requiem Red,f77dbf2323deb740
+Young Adult,http://books.toscrape.com/media/cache/3b/6a/3b6ae7b1d7736819f4f44605441e283e.jpg,[35.35],[5.0],[14],The Darkest Lie,6edacfd1f8ebb9eb
+Young Adult,http://books.toscrape.com/media/cache/b6/2f/b62f16c69886271a55d3717883323283.jpg,[14.44],[5.0],[12],The Epidemic (The Program 0.6),f732d7d18a91d2ba
+Young Adult,http://books.toscrape.com/media/cache/e5/3a/e53a42b20d0c60634289aaad3fbb75c6.jpg,[58.14],[4.0],[14],Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),41164b8ac02a2c42
+Young Adult,http://books.toscrape.com/media/cache/f4/8b/f48b76634af0040d4eea1ee896d3676b.jpg,[50.83],[3.0],[14],Catching Jordan (Hundred Oaks),e2e7b683b4c15b7d
+Young Adult,http://books.toscrape.com/media/cache/8f/22/8f221677f6d28eba048ebb505fcfd90a.jpg,[48.05],[2.0],[12],Stars Above (The Lunar Chronicles #4.5),b63ea3f7a57ae099
+Young Adult,http://books.toscrape.com/media/cache/8e/dc/8edc314a67ed5ddad7bd0a2f30ad3238.jpg,[27.12],[2.0],[14],This Is Where It Ends,f0f38174a7e689a3
+Young Adult,http://books.toscrape.com/media/cache/78/11/78112d48a74583a7acc24a2b46a9f59d.jpg,[55.35],[1.0],[14],Don't Get Caught,ad2887ce04583910
+Young Adult,http://books.toscrape.com/media/cache/e1/24/e1249f72129bd4b788ffd0cdd7834c24.jpg,[46.31],[2.0],[14],Until Friday Night (The Field Party #1),aba2db9afb1469c7
+Young Adult,http://books.toscrape.com/media/cache/ad/42/ad42a85570a887faf1b9e12715cf59bf.jpg,[14.36],[2.0],[14],Wild Swans,3fb15ace50d6142b
+Young Adult,http://books.toscrape.com/media/cache/2a/2d/2a2d6ebcedeb7249a2a85fd1fbfd06e1.jpg,[29.99],[5.0],[15],Frostbite (Vampire Academy #2),116a2fdc9a45bab0
+Young Adult,http://books.toscrape.com/media/cache/41/e1/41e1fc6ac1122d77a6308544dba8c21e.jpg,[54.65],[4.0],[12],No Love Allowed (Dodge Cove #1),db84624b151cbe06
+Young Adult,http://books.toscrape.com/media/cache/0e/ea/0eea83f8c3d5d3bf8538f046e2a4c67d.jpg,[33.23],[1.0],[9],Don't Forget Steven,e845d305f64154f1
+Young Adult,http://books.toscrape.com/media/cache/fc/8c/fc8c996d0976a29c5c37bc11923a02f1.jpg,[51.34],[4.0],[11],"Exit, Pursued by a Bear",c65c25d990fc7025
+Young Adult,http://books.toscrape.com/media/cache/15/7c/157c526f6978d80e039e1362ae898fc8.jpg,[54.4],[1.0],[9],The Alien Club,e77594ece9b9d1fe
+Young Adult,http://books.toscrape.com/media/cache/1a/2c/1a2c80cc391bc1422013e31682c5f649.jpg,[36.39],[5.0],[8],My Life Next Door (My Life Next Door ),9a7291b89bd5445c
+Young Adult,http://books.toscrape.com/media/cache/34/65/3465383539467c7e1787d26c02bca66f.jpg,[28.93],[1.0],[8],South of Sunshine,331c26103d885cae
+Young Adult,http://books.toscrape.com/media/cache/0c/f9/0cf93861d70a35c3d8deaa265a630e35.jpg,[41.73],[4.0],[5],Where She Went (If I Stay #2),60369d96b7b80869
+Young Adult,http://books.toscrape.com/media/cache/cd/1a/cd1ab47070ea1662d4917d7ad483ed53.jpg,[14.64],[1.0],[5],Two Summers,3a7d54a264d9f33e
+Young Adult,http://books.toscrape.com/media/cache/6e/66/6e66e7cefe3ca7cf9402f87f3e13c79e.jpg,[15.52],[5.0],[5],Kill the Boy Band,44f545727e704187
+Young Adult,http://books.toscrape.com/media/cache/1e/12/1e12b33f2f3988b23f895d2319ef7af8.jpg,[23.63],[4.0],[5],Lola and the Boy Next Door (Anna and the French Kiss #2),5e1a88d248599768
+Young Adult,http://books.toscrape.com/media/cache/b9/e6/b9e66a23fe4b95c426409bad86058152.jpg,[47.31],[4.0],[5],"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",e75f3ae1da1cc652
+Young Adult,http://books.toscrape.com/media/cache/78/48/784872c69237efaf5df8c0282280ff05.jpg,[50.96],[2.0],[6],Tell the Wolves I'm Home,2a1b3d967cda1da2
+Young Adult,http://books.toscrape.com/media/cache/cb/da/cbda49820de480220af3dff2d30c689a.jpg,[50.35],[4.0],[7],Nightstruck: A Novel,746029796363aa51
+Young Adult,http://books.toscrape.com/media/cache/61/ff/61ffcc9619675c79b1f0b568d6ee870c.jpg,[48.13],[5.0],[5],Isla and the Happily Ever After (Anna and the French Kiss #3),45045146dbf7b009
+Young Adult,http://books.toscrape.com/media/cache/7c/eb/7cebcafb82ec5f208d1613b35337d59d.jpg,[55.65],[5.0],[8],Future Shock (Future Shock #1),df6a7c43faa6732b
+Young Adult,http://books.toscrape.com/media/cache/9b/c8/9bc86bc10a6beea536422bbe82e076fb.jpg,[10.0],[5.0],[5],An Abundance of Katherines,f36d24c309e87e5b
+Young Adult,http://books.toscrape.com/media/cache/3f/c5/3fc5fbb8ab3099a5fae8f5d180605905.jpg,[32.36],[3.0],[3],Walk the Edge (Thunder Road #2),0e4e2d31c2fb3aad
+Young Adult,http://books.toscrape.com/media/cache/27/93/2793d4ce3d27cdcdb7a0961bc218b25f.jpg,[24.17],[4.0],[4],Harry Potter and the Prisoner of Azkaban (Harry Potter #3),eff24325e0ede639
+Young Adult,http://books.toscrape.com/media/cache/92/a5/92a5e01c5067f65f03b316a328459f9f.jpg,[41.81],[1.0],[5],Tell Me Three Things,50d5a7b861ed1c54
+Young Adult,http://books.toscrape.com/media/cache/8c/64/8c64037f38663260b91c275078ee882d.jpg,[11.33],[5.0],[5],The Darkest Corners,c4182bdb53e2459a
+Young Adult,http://books.toscrape.com/media/cache/a0/29/a029efdcb7e61cc2fed1f7404cf065a0.jpg,[32.74],[2.0],[3],Two Boys Kissing,61bc8167c9680283
+Young Adult,http://books.toscrape.com/media/cache/20/59/2059cab99f3edbb3971347b7a0812cdd.jpg,[44.92],[3.0],[3],The New Guy (and Other Senior Year Distractions),3e42ac0f4d43320f
+Young Adult,http://books.toscrape.com/media/cache/af/82/af82a0cccc29dd467330dab0325807c8.jpg,[29.64],[4.0],[3],"The Land of 10,000 Madonnas",35e69a79d2b1e804
+Young Adult,http://books.toscrape.com/media/cache/86/36/8636b9056ea6930c153cd1d5b4aed36a.jpg,[53.04],[5.0],[3],Lady Renegades (Rebel Belle #3),16e843e6b853cc2f
+Young Adult,http://books.toscrape.com/media/cache/55/2d/552d4630bed694b33b042990e30722d3.jpg,[26.09],[1.0],[3],Cinder (The Lunar Chronicles #1),7e9579921e5407cb
+Young Adult,http://books.toscrape.com/media/cache/c2/8b/c28ba565e29fd6879ccf4738fbf06696.jpg,[42.21],[4.0],[3],Golden (Heart of Dread #3),984b3b6e7479b571
+Young Adult,http://books.toscrape.com/media/cache/86/3c/863c3b48499a99392aace127df8b43e5.jpg,[21.12],[3.0],[3],Boy Meets Boy,8e0bc2fe4e7d35b5
+Young Adult,http://books.toscrape.com/media/cache/78/2c/782c8d1e4ab324d978c5dadca02e8cd8.jpg,[36.83],[5.0],[3],Annie on My Mind,7bf87402413c27ff
+Young Adult,http://books.toscrape.com/media/cache/57/8f/578f1512a0f0a9d3c2ab9543f7b4506f.jpg,[43.69],[4.0],[3],Legend (Legend #1),0ce8075fab4a2b5b
+Young Adult,http://books.toscrape.com/media/cache/97/04/9704e3b9203e9b029134d0b86c17613b.jpg,[14.57],[4.0],[3],Scarlet (The Lunar Chronicles #2),510832818edb6fbc
+Young Adult,http://books.toscrape.com/media/cache/0b/9f/0b9f43b6b5cf8053dd2c68ecafe70b8a.jpg,[40.83],[4.0],[1],The Art of Not Breathing,5bc1fbccfbf2355c
+Young Adult,http://books.toscrape.com/media/cache/4a/13/4a1370ebafcaf6ba5f5e1fe4a609b6d8.jpg,[27.89],[5.0],[1],The Haters,fff8a057a40c4a60
+Young Adult,http://books.toscrape.com/media/cache/5a/36/5a36c880b8762469cd3d67dc05427128.jpg,[53.47],[1.0],[2],Girl Online On Tour (Girl Online #2),97b8f130d32e9f4e
+Young Adult,http://books.toscrape.com/media/cache/dc/d6/dcd6ccbed1f8003d5bf53e2791c5abe7.jpg,[12.86],[4.0],[2],New Moon (Twilight #2),6fa3ea52c8e31e06
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Politics,http://books.toscrape.com/media/cache/a6/3b/a63b2576d798c2041c602561499a26aa.jpg,[56.86],[1.0],[12],Equal Is Unfair: America's Misguided Fight Against Income Inequality,3968e3fbf4695d7c
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Politics,http://books.toscrape.com/media/cache/cd/64/cd64ccda3382d62fea8167eaadd6c9a0.jpg,[52.65],[4.0],[14],Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,2b5054a4192e9b06
+Politics,http://books.toscrape.com/media/cache/91/a4/91a46253e165d144ef5938f2d456b88f.jpg,[51.33],[2.0],[19],Libertarianism for Beginners,a18a4f574854aced
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Sports and Games,http://books.toscrape.com/media/cache/95/c4/95c41c1765b517d6240bd674a02676b1.jpg,[44.91],[2.0],[1],Settling the Score (The Summer Games #1),132adf7335bb384a
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Sports and Games,http://books.toscrape.com/media/cache/bf/31/bf31c4b40f6b2622330155fb9113a3bb.jpg,[40.44],[4.0],[1],Icing (Aces Hockey #2),3455b45888fb5053
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Sports and Games,http://books.toscrape.com/media/cache/73/bb/73bbe0a70806f8a732b9a7a7a343c5ec.jpg,[44.84],[5.0],[3],The Book of Basketball: The NBA According to The Sports Guy,08decd9664e5d56e
+Sports and Games,http://books.toscrape.com/media/cache/10/65/106598cd8f3437c26a92cbda0a5a08bb.jpg,[24.42],[1.0],[2],Sugar Rush (Offensive Line #2),ce42e3de94226b2b
+Sports and Games,http://books.toscrape.com/media/cache/89/e8/89e87f1e98993377949855563aa1f982.jpg,[51.22],[3.0],[3],"Friday Night Lights: A Town, a Team, and a Dream",a9aa3ed5b316470b
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Womens Fiction,http://books.toscrape.com/media/cache/b9/ef/b9efe934eaeb1f51ad31a971188d7bc3.jpg,[13.86],[3.0],[12],Will You Won't You Want Me?,077b635ff2afc578
+Womens Fiction,http://books.toscrape.com/media/cache/60/e9/60e9df360fec611b15a1bbb4c28aad22.jpg,[57.36],[4.0],[15],I Had a Nice Time And Other Lies...: How to find love & sh*t like that,fd8585283fc7d2d7
+Womens Fiction,http://books.toscrape.com/media/cache/e1/24/e124fe015a3ffa6857eb35c39e89cd61.jpg,[21.94],[1.0],[4],Can You Keep a Secret?,0812f54c93d726ce
+Womens Fiction,http://books.toscrape.com/media/cache/e3/4e/e34e69942bf1327c602ef9754d02a022.jpg,[52.53],[5.0],[3],The Nanny Diaries (Nanny #1),6263c1d2997b8ce0
+Womens Fiction,http://books.toscrape.com/media/cache/e3/33/e33394096291284ed1f80c5b13c4e1f3.jpg,[43.58],[3.0],[7],Meternity,725cd8d23d78cdca
+Womens Fiction,http://books.toscrape.com/media/cache/c8/06/c806501c08d2b2cd72f2362a3da6ab80.jpg,[48.49],[4.0],[11],Grey (Fifty Shades #4),b5953ca1f8a0b8d7
+Womens Fiction,http://books.toscrape.com/media/cache/9c/84/9c845ad6a9d4ecf44d53ac0e3b8f54ae.jpg,[20.46],[4.0],[11],Keep Me Posted,20dc4f1ac5d4fd9c
+Womens Fiction,http://books.toscrape.com/media/cache/82/ed/82ed95c8c6c3ee6171fe3b55d766a9ec.jpg,[48.96],[5.0],[3],Something Borrowed (Darcy & Rachel #1),ac27ab4bcd9c492e
+Womens Fiction,http://books.toscrape.com/media/cache/21/ac/21acb843702d1448519cc8bf0d5da728.jpg,[44.29],[1.0],[3],The Devil Wears Prada (The Devil Wears Prada #1),a6ab0cb7106a67f2
+Womens Fiction,http://books.toscrape.com/media/cache/d0/f8/d0f8f438caa5e7adc1c727da4f06ca64.jpg,[48.39],[5.0],[4],Shopaholic Ties the Knot (Shopaholic #3),38199c5d7da0c0ef
+Womens Fiction,http://books.toscrape.com/media/cache/e3/e9/e3e95f631eb64252324768ce795b50d7.jpg,[45.75],[4.0],[3],The Undomestic Goddess,813cff2aefa5d1f0
+Womens Fiction,http://books.toscrape.com/media/cache/2f/71/2f710e4c53d98e47b73e4d34702a6751.jpg,[13.73],[5.0],[4],Some Women,31f5bbf4974d29c9
+Womens Fiction,http://books.toscrape.com/media/cache/49/ec/49ec020f1dfa44313313495b809f74f1.jpg,[42.8],[2.0],[3],Twenties Girl,8ebad30219b8679c
+Womens Fiction,http://books.toscrape.com/media/cache/67/2f/672f2e3753cfc59c5843d23c88784326.jpg,[29.82],[1.0],[1],Bridget Jones's Diary (Bridget Jones #1),a2b4b685dfa94733
+Womens Fiction,http://books.toscrape.com/media/cache/a1/4f/a14f3bc2743e3956cb10fddaaf62a1f9.jpg,[19.18],[4.0],[1],The Edge of Reason (Bridget Jones #2),29fc016c459aeb14
+Womens Fiction,http://books.toscrape.com/media/cache/3d/40/3d407a69fe55223fb4cfec577a9a8ee2.jpg,[19.69],[1.0],[3],I've Got Your Number,6b32b561dab8036c
+Womens Fiction,http://books.toscrape.com/media/cache/29/26/2926c885f673e84d7fc46240b1f77eb2.jpg,[54.62],[1.0],[3],Something Blue (Darcy & Rachel #2),3fc9d51d1c4d6ba7
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Business,http://books.toscrape.com/media/cache/0f/76/0f76b00ea914ced1822d8ac3480c485f.jpg,[12.61],[5.0],[15],The Third Wave: An Entrepreneur’s Vision of the Future,3bebf34ee9330cbd
+Business,http://books.toscrape.com/media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg,[33.34],[4.0],[19],The Dirty Little Secrets of Getting Your Dream Job,2597b5a345f45e1b
+Business,http://books.toscrape.com/media/cache/fe/1a/fe1afbd5caf79c3c957bfc5cf46f141e.jpg,[43.14],[1.0],[12],Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,8976d9161c027142
+Business,http://books.toscrape.com/media/cache/1e/3e/1e3e1572e17ade03b21c44617fbc4d68.jpg,[38.85],[5.0],[14],Made to Stick: Why Some Ideas Survive and Others Die,b96fc7a0ea7d4b45
+Business,http://books.toscrape.com/media/cache/fc/21/fc21d144c7289e5b1cb133e01a925126.jpg,[23.99],[2.0],[15],Shoe Dog: A Memoir by the Creator of NIKE,0e0dcc3339602b28
+Business,http://books.toscrape.com/media/cache/12/23/12233a9d0bf8187a988c27c6a54b3d31.jpg,[44.88],[2.0],[3],Rework,8e9dd8431170c09e
+Business,http://books.toscrape.com/media/cache/50/4b/504b1891508614ff9393563f69d66c95.jpg,[27.55],[3.0],[15],The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,56e4f9eab2e8e674
+Business,http://books.toscrape.com/media/cache/52/6e/526e9f360da288db64ca70c89cdbcaa9.jpg,[33.92],[3.0],[3],The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,70c7c3ca7f9b2728
+Business,http://books.toscrape.com/media/cache/46/1c/461cf454be3aac0b4cd066247c892679.jpg,[51.74],[1.0],[7],"Rich Dad, Poor Dad",8486f61aa81a3daa
+Business,http://books.toscrape.com/media/cache/a5/7e/a57ef7bdbaf704fca07ab6dd125b54f9.jpg,[36.91],[1.0],[8],The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,a2308a936e898d48
+Business,http://books.toscrape.com/media/cache/67/e8/67e81a7a82578a919a48816330836090.jpg,[21.0],[3.0],[11],The Art of Startup Fundraising,1c584f82a7a1c4f0
+Business,http://books.toscrape.com/media/cache/9f/e7/9fe7f6432f216b166cb36f16130f20f6.jpg,[21.59],[5.0],[11],Born for This: How to Find the Work You Were Meant to Do,816180220e8cb419
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Historical,http://books.toscrape.com/media/cache/6d/72/6d72120f94d38e356612c8a78e82a53d.jpg,[15.79],[1.0],[6],The Girl You Left Behind (The Girl You Left Behind #1),eb7459e0c570251d
+Historical,http://books.toscrape.com/media/cache/a6/96/a696c1d6bb1ff8f65f51a116160b2aef.jpg,[29.87],[5.0],[14],All the Light We Cannot See,39861fc1c0845d15
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Academic,http://books.toscrape.com/media/cache/2b/44/2b4404e00c242bf1b8263bdd99c07354.jpg,[13.12],[2.0],[5],Logan Kade (Fallen Crest High #5.5),7093cf549cd2e7de
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Christian Fiction,http://books.toscrape.com/media/cache/1b/38/1b3825668326e82038ba33bca646e0f3.jpg,[28.77],[2.0],[7],Like Never Before (Walker Family #2),b6670507e85b30e6
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Christian Fiction,http://books.toscrape.com/media/cache/54/17/54179d9af49616b1ef35a0bb23294b14.jpg,[49.97],[4.0],[3],If I Run (If I Run #1),61569d12d4ae7161
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Christian Fiction,http://books.toscrape.com/media/cache/33/93/339372341b88e027734e97fa1ddb26fc.jpg,[17.97],[5.0],[7],Counted With the Stars (Out from Egypt #1),4807043b8218e9ce
+Christian Fiction,http://books.toscrape.com/media/cache/94/f4/94f4405dae04559ecdd92e62486623e3.jpg,[49.46],[4.0],[15],Close to You,a57b1dcbd6849222
+Christian Fiction,http://books.toscrape.com/media/cache/61/3a/613ac19c2232f1d9adc5943291a5e860.jpg,[39.67],[5.0],[8],Shadows of the Past (Logan Point #1),bee6e93e9976f4fa
+Christian Fiction,http://books.toscrape.com/media/cache/c9/74/c974d74fa0bd1735c6ae172d40b1c077.jpg,[20.47],[5.0],[15],Redeeming Love,b53db2271c9624f7
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Suspense,http://books.toscrape.com/media/cache/00/bf/00bf1ae17dde21c66e346dd9c393d6fa.jpg,[58.33],[3.0],[8],Silence in the Dark (Logan Point #4),e46a164cf310fd7d
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Add a comment,http://books.toscrape.com/media/cache/f5/3b/f53bc7b18914c97de7c23967293be119.jpg,[40.76],[3.0],[16],The Art Forger,80cfab6bcff3a244
+Add a comment,http://books.toscrape.com/media/cache/c7/26/c7260547c468dbe78af92cf3927c2a1c.jpg,[19.09],[1.0],[16],The Torch Is Passed: A Harding Family Story,4eed62cf5f8d8edf
+Add a comment,http://books.toscrape.com/media/cache/78/cb/78cb28a3e8804131e8e0c3f7b8deb2fc.jpg,[28.26],[5.0],[15],Modern Romance,caf4fe9311f1dc59
+Add a comment,http://books.toscrape.com/media/cache/e7/00/e7000cd6975d8932b9178de9386b944d.jpg,[37.61],[2.0],[14],More Than Music (Chasing the Dream #1),47d47155e89c8be7
+Add a comment,http://books.toscrape.com/media/cache/75/9d/759d9276739200e2cb8101a36449ba20.jpg,[14.07],[3.0],[16],On a Midnight Clear,b757c0c361e689ce
+Add a comment,http://books.toscrape.com/media/cache/11/40/11400b5532ad710359584a68db50f33c.jpg,[25.91],[5.0],[14],The White Queen (The Cousins' War #1),6875c5657661b2fb
+Add a comment,http://books.toscrape.com/media/cache/24/86/248641d1d03b4dbfe3a7db4e20552973.jpg,[48.78],[1.0],[14],The Dovekeepers,3d76bc83c6b644c9
+Add a comment,http://books.toscrape.com/media/cache/c9/eb/c9eb6ecf45abf796df0044600db65e55.jpg,[23.89],[4.0],[16],"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",31075275518532d7
+Add a comment,http://books.toscrape.com/media/cache/92/4d/924d855a0ad5774410b0bb7c71afa788.jpg,[40.67],[2.0],[14],The Immortal Life of Henrietta Lacks,f72f61ad6a5f12ed
+Add a comment,http://books.toscrape.com/media/cache/4e/56/4e56783b21a3a5c73e32e59241a351ac.jpg,[37.4],[5.0],[14],The Song of Achilles,e88fb1c9397cfb27
+Add a comment,http://books.toscrape.com/media/cache/f3/7f/f37f3173a97baeac6b6421c54a6df7b5.jpg,[29.06],[3.0],[15],"Shobu Samurai, Project Aryoku (#3)",0c27e6c3744fc14b
+Add a comment,http://books.toscrape.com/media/cache/6d/80/6d80608ef81001ad068df06fae44b7f8.jpg,[53.9],[2.0],[16],Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),228f74b74f3a08ae
+Add a comment,http://books.toscrape.com/media/cache/19/11/1911d173c8e812518900af9aa16d9e46.jpg,[55.51],[1.0],[14],A Brush of Wings (Angels Walking #3),01a177623cce9596
+Add a comment,http://books.toscrape.com/media/cache/bd/93/bd930adc47ee0dc240f8134f70f431ad.jpg,[40.79],[2.0],[14],A People's History of the United States,1ad06aed9349af46
+Add a comment,http://books.toscrape.com/media/cache/07/5f/075fff6094c0805f9f6b9e12561aeb87.jpg,[56.48],[2.0],[14],"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",c1379d3744f1dd2c
+Add a comment,http://books.toscrape.com/media/cache/ba/d9/bad95369105e8e403bf1f2b9288c5e41.jpg,[34.2],[2.0],[14],Angels Walking (Angels Walking #1),1fbb5f786e53a0ce
+Add a comment,http://books.toscrape.com/media/cache/03/da/03da11f81eda5e742df8a39e90c21c70.jpg,[20.29],[4.0],[14],Cell,bfbb54bc8cdeed2b
+Add a comment,http://books.toscrape.com/media/cache/65/9a/659ada7d88e3bda8db70f7e5312a39e2.jpg,[22.13],[4.0],[14],Code Name Verity (Code Name Verity #1),33a3e0e3ffde0dcd
+Add a comment,http://books.toscrape.com/media/cache/d8/63/d8630e50f24c22765c9591a9297ff2e1.jpg,[26.2],[1.0],[12],The Midnight Watch: A Novel of the Titanic and the Californian,14e44163678e24dc
+Add a comment,http://books.toscrape.com/media/cache/64/ab/64ab238bea10c4f25fa5bc9129a35370.jpg,[37.86],[4.0],[13],Rook,44d97b6707dae3f0
+Add a comment,http://books.toscrape.com/media/cache/41/d7/41d75d4206b13bf107e86fa41f21afff.jpg,[35.79],[2.0],[9],23 Degrees South: A Tropical Tale of Changing Whether...,61cf7eb9d2cd8bb0
+Add a comment,http://books.toscrape.com/media/cache/f5/02/f502c42183ea69987a796d2e396b2bab.jpg,[50.49],[3.0],[9],A Hero's Curse (The Unseen Chronicles #1),c181ca8eabe7d18c
+Add a comment,http://books.toscrape.com/media/cache/a0/76/a07621adcf3e13b4d3bcdc0474ab2098.jpg,[58.05],[4.0],[9],Watchmen,d1848064c54e01c7
+Add a comment,http://books.toscrape.com/media/cache/6c/21/6c21a47589ec756b9ed27e2f331c08de.jpg,[48.27],[5.0],[9],Without Shame,ab60e6f5a63e1cfb
+Add a comment,http://books.toscrape.com/media/cache/98/f8/98f8b3354fc18ed6f42ff5c3f9b39056.jpg,[15.71],[4.0],[12],One with You (Crossfire #5),81ef44fcc5f454df
+Add a comment,http://books.toscrape.com/media/cache/b3/0b/b30bf2a60739293261c9a997c7ae2ef6.jpg,[11.88],[3.0],[12],The Children,64fd010bf8d15096
+Add a comment,http://books.toscrape.com/media/cache/39/a9/39a9cca83d84bff87903d4addbef4941.jpg,[59.15],[4.0],[12],The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,3063c7e95d0bf76f
+Add a comment,http://books.toscrape.com/media/cache/a5/13/a513b65a8f7696c8aec48a607f7f90d3.jpg,[18.77],[1.0],[6],The Golden Compass (His Dark Materials #1),d33824cb93ecab6f
+Add a comment,http://books.toscrape.com/media/cache/2f/7f/2f7f108c7b56c6adac8510eb43ff4f79.jpg,[30.57],[2.0],[5],The Raven King (The Raven Cycle #4),2e4fc5eacceec12c
+Add a comment,http://books.toscrape.com/media/cache/fd/5f/fd5f36fce14114f5b982e1e69d9a2f69.jpg,[57.43],[4.0],[7],John Adams,68407606544d6f22
+Add a comment,http://books.toscrape.com/media/cache/2c/81/2c8137d1d0a3ebb2f74d7abf45916606.jpg,[43.27],[4.0],[6],The Joy of Cooking,d326e189b1210916
+Add a comment,http://books.toscrape.com/media/cache/a5/7a/a57a35a22d7a06fa9987121e4883e4de.jpg,[37.05],[5.0],[7],Good in Bed (Cannie Shapiro #1),c00bc29a678a6efb
+Add a comment,http://books.toscrape.com/media/cache/48/4d/484d8afc2cf8b77a45fa4fec0a5e7b89.jpg,[22.37],[1.0],[5],Find Her (Detective D.D. Warren #8),b28c7d07afa7063b
+Add a comment,http://books.toscrape.com/media/cache/be/22/be229bc9bc4655c7cb2c906998d5ef2e.jpg,[20.12],[5.0],[7],Team of Rivals: The Political Genius of Abraham Lincoln,ba047a636b7d3793
+Add a comment,http://books.toscrape.com/media/cache/8f/83/8f83b65ba6a734aa7f40675b74a17c21.jpg,[35.67],[3.0],[7],The Drowning Girls,7a10353c9c54cf7c
+Add a comment,http://books.toscrape.com/media/cache/38/03/3803cd158a57e03763dc2200f81eba65.jpg,[16.24],[1.0],[7],The Glass Castle,47f4fd3e8e1dac05
+Add a comment,http://books.toscrape.com/media/cache/48/c1/48c15c510ce0089db10a4f5f9fce7ecd.jpg,[56.59],[4.0],[6],Fun Home: A Family Tragicomic,56a34d0cec11d6b0
+Add a comment,http://books.toscrape.com/media/cache/d7/ce/d7ce17649c77c9addfcf265012d0436e.jpg,[48.51],[3.0],[6],Mere Christianity,f38f37ed934d84b2
+Add a comment,http://books.toscrape.com/media/cache/6a/87/6a8706826789aa47fbbb8a2459b4c616.jpg,[19.27],[4.0],[6],Pride and Prejudice,720c36b2bee4692e
+Add a comment,http://books.toscrape.com/media/cache/30/35/3035b6c5dc0a48a83fbe84eb37e76f10.jpg,[46.85],[3.0],[6],The God Delusion,2bc80eba94950873
+Add a comment,http://books.toscrape.com/media/cache/db/27/db27a90497bcb1b1d8e59dec06264256.jpg,[42.27],[1.0],[5],Evicted: Poverty and Profit in the American City,75cc85cdbe9ad46b
+Add a comment,http://books.toscrape.com/media/cache/6d/73/6d739416776a66c258ef0cb35f3eb9e1.jpg,[10.79],[3.0],[5],A Clash of Kings (A Song of Ice and Fire #2),89a89e76f3516357
+Add a comment,http://books.toscrape.com/media/cache/fe/74/fe7494f92b03b9c178cf19a038011f18.jpg,[34.77],[1.0],[3],The Rest Is Noise: Listening to the Twentieth Century,e2d47e82c50d41d9
+Add a comment,http://books.toscrape.com/media/cache/37/09/3709ede7460008ec539deb7cd44b688e.jpg,[46.42],[2.0],[5],A Game of Thrones (A Song of Ice and Fire #1),03cbb67c0f990d87
+Add a comment,http://books.toscrape.com/media/cache/ba/ab/baab7240d3d472f4f868ae8b4481365b.jpg,[10.02],[2.0],[3],The Tipping Point: How Little Things Can Make a Big Difference,224fa77d4b248046
+Add a comment,http://books.toscrape.com/media/cache/f4/00/f4000d1f2348894ec00679674a5b5d4f.jpg,[47.8],[3.0],[3],The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),a8b0ea6490bc818f
+Add a comment,http://books.toscrape.com/media/cache/e8/67/e867d03f2a94d84ff1be5800a34b9a95.jpg,[37.19],[3.0],[3],The Purpose Driven Life: What on Earth Am I Here for?,0e7beedf0ee9380c
+Add a comment,http://books.toscrape.com/media/cache/fb/c5/fbc5ed73ca9452af655115c7bd006e83.jpg,[57.48],[1.0],[3],The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),8f5d16a5a9bd58b2
+Add a comment,http://books.toscrape.com/media/cache/b4/54/b4540e3eb2e980d0c2b45c5c4432f28b.jpg,[24.55],[1.0],[3],The Catcher in the Rye,487449f4f6322f0f
+Add a comment,http://books.toscrape.com/media/cache/fc/42/fc42d56ac8d3ee46bfea880d0cf46a5e.jpg,[47.84],[1.0],[3],The Case for Christ (Cases for Christianity),970bd3316219e7dc
+Add a comment,http://books.toscrape.com/media/cache/36/94/3694ded38770738af6a6959636124331.jpg,[46.29],[1.0],[3],Sarah's Key,5b2cd5b31a510848
+Add a comment,http://books.toscrape.com/media/cache/e5/cb/e5cb32b76ae2e45823f1d50446c9ae58.jpg,[41.32],[5.0],[3],The Complete Poems,23707d3ddf14a999
+Add a comment,http://books.toscrape.com/media/cache/69/97/69978f609f9c1cb470ce1aa0774cf9d1.jpg,[22.13],[4.0],[3],"The End of Faith: Religion, Terror, and the Future of Reason",b3f2bc2cefb35f05
+Add a comment,http://books.toscrape.com/media/cache/92/2f/922f6fcd3282a0da76cc14fc13ae2411.jpg,[52.33],[2.0],[3],Seven Days in the Art World,07806456878931bc
+Add a comment,http://books.toscrape.com/media/cache/a2/2a/a22a10fdc420dce290c7c85dde23f093.jpg,[53.71],[5.0],[3],The Blind Side: Evolution of a Game,cd3dcd83bb002e78
+Add a comment,http://books.toscrape.com/media/cache/e9/6e/e96eeedd915f4af106df0977404a0b8f.jpg,[36.17],[2.0],[3],Cosmos,dbe33cf29ef1623d
+Add a comment,http://books.toscrape.com/media/cache/33/fb/33fba23401f34bd8cd5287f5ca640502.jpg,[21.28],[4.0],[3],Fire Bound (Sea Haven/Sisters of the Heart #5),2ed3a794a70aa85f
+Add a comment,http://books.toscrape.com/media/cache/d9/54/d9540861f39f0b181b3fb13d57025f0c.jpg,[34.98],[2.0],[3],Manuscript Found in Accra,546da23278482b0a
+Add a comment,http://books.toscrape.com/media/cache/2d/d0/2dd096d0fa0af96560c16aeffea83d4a.jpg,[50.11],[3.0],[3],Rogue Lawyer (Rogue Lawyer #1),b4f5672f68ec3a83
+Add a comment,http://books.toscrape.com/media/cache/4d/3a/4d3a9198fd6fd7b66ad7742b37c7f3ac.jpg,[50.96],[1.0],[3],#GIRLBOSS,165affa7adb5eded
+Add a comment,http://books.toscrape.com/media/cache/ab/bf/abbf443d42de3bad8d145794534934bb.jpg,[33.78],[3.0],[1],The Republic,0ec9d2b018fb10d8
+Add a comment,http://books.toscrape.com/media/cache/94/23/9423f5e8b08195183f7ee002f3b48b33.jpg,[54.43],[1.0],[1],The Light of the Fireflies,04e43893e32f9d29
+Add a comment,http://books.toscrape.com/media/cache/46/09/4609b4e20bb1d076693b2d24e8e90704.jpg,[29.64],[3.0],[1],The Odyssey,f0512adadffd2480
+Add a comment,http://books.toscrape.com/media/cache/c4/d2/c4d2764a45584960ee18de814191e21a.jpg,[31.38],[3.0],[2],The Sense of an Ending,4130678275eb7c8c
+Add a comment,http://books.toscrape.com/media/cache/20/fd/20fd23f982b45a59f6c1a31e6804e735.jpg,[24.89],[3.0],[1],Lord of the Flies,71a6471bbdac21d9
+Add a comment,http://books.toscrape.com/media/cache/9e/14/9e14dd99b3b2f07f5a43ee2e007c1c26.jpg,[16.16],[1.0],[1],The Iliad,86d8bd7afa5b51b3
+Add a comment,http://books.toscrape.com/media/cache/b5/c7/b5c74ed5e387f2c13324e294c4b6412c.jpg,[14.76],[3.0],[1],The Communist Manifesto,18b4545a5ed15581
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Sequential Art,http://books.toscrape.com/media/cache/97/27/97275841c81e66d53bf9313cba06f23e.jpg,[52.29],[5.0],[19],Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),3b1c02bac2a429e6
+Sequential Art,http://books.toscrape.com/media/cache/8b/ab/8bab133ec9f8248a8d5f5ea5c09d0f56.jpg,[16.28],[1.0],[16],Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),09555be379ad9253
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Sequential Art,http://books.toscrape.com/media/cache/71/0c/710cdaa148f10aac35c27bb93b4f532e.jpg,[10.16],[3.0],[16],Patience,9429b4d59c537af5
+Sequential Art,http://books.toscrape.com/media/cache/6f/7b/6f7b3b8445b943f4ff7426360daefb88.jpg,[18.97],[1.0],[16],"Pop Gun War, Volume 1: Gift",e80f8e518b300dfe
+Sequential Art,http://books.toscrape.com/media/cache/6c/8f/6c8ffe949fb650ba60eff25be1692881.jpg,[13.61],[5.0],[16],"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",0fa6dceead7ce47a
+Sequential Art,http://books.toscrape.com/media/cache/d5/d0/d5d015a9cf899301cce5d1a629bdd974.jpg,[50.4],[3.0],[16],"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",c82a3e358c773c73
+Sequential Art,http://books.toscrape.com/media/cache/1c/78/1c78cb31ededc4c662857cf65bd1619d.jpg,[45.61],[3.0],[16],"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",b6ee99bcf06fc91f
+Sequential Art,http://books.toscrape.com/media/cache/60/3c/603c8f3dd299efe67616a53e5bfb1d03.jpg,[51.04],[2.0],[16],"Saga, Volume 5 (Saga (Collected Editions) #5)",53a3d11bb568cc8b
+Sequential Art,http://books.toscrape.com/media/cache/19/de/19deee0778c2406da04a4dd0ea09188f.jpg,[38.16],[4.0],[16],The Nameless City (The Nameless City #1),7d385d34d12e60ff
+Sequential Art,http://books.toscrape.com/media/cache/ee/43/ee4364a59d66bafb1b3264419ab3ed9e.jpg,[19.49],[4.0],[16],This One Summer,51653ef291ab7ddc
+Sequential Art,http://books.toscrape.com/media/cache/67/f8/67f83a06f77d0ff3b06cb8ac04839422.jpg,[46.91],[2.0],[16],"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",460089f796fb3f82
+Sequential Art,http://books.toscrape.com/media/cache/33/0b/330bf57e3f2e70548f87d39cb956f7eb.jpg,[48.41],[1.0],[16],orange: The Complete Collection 1 (orange: The Complete Collection #1),11809b1d323b3057
+Sequential Art,http://books.toscrape.com/media/cache/0c/8a/0c8ae80b592bc1b4c555d6b29d1cfa28.jpg,[15.44],[4.0],[16],"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",889139b8e9c4cb36
+Sequential Art,http://books.toscrape.com/media/cache/d0/6f/d06ff4e3b9daf93b18bb21f1af19b5eb.jpg,[22.11],[2.0],[16],"Giant Days, Vol. 2 (Giant Days #5-8)",f2df3bb043a8abb0
+Sequential Art,http://books.toscrape.com/media/cache/f7/4d/f74db5141becf01083abc03c078f4922.jpg,[54.63],[3.0],[16],I am a Hero Omnibus Volume 1,1c89ae5bb804e4de
+Sequential Art,http://books.toscrape.com/media/cache/58/e2/58e2097169e92a95d973da420ce7cc98.jpg,[29.17],[2.0],[16],"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",8d4eefad7a2b3915
+Sequential Art,http://books.toscrape.com/media/cache/d6/9b/d69b7020c4210e12882ffca0428919a2.jpg,[19.92],[2.0],[16],Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),57e5a4d515c8ce44
+Sequential Art,http://books.toscrape.com/media/cache/7a/67/7a671ecf69cdcd2ea9ebe85da1b5585f.jpg,[17.08],[4.0],[16],Camp Midnight,7b599c8bfcdd8d30
+Sequential Art,http://books.toscrape.com/media/cache/ed/a5/eda54d1bfcdd39488013f7aae1eaf659.jpg,[36.72],[4.0],[16],"Codename Baboushka, Volume 1: The Conclave of Death",8754c83ab2a7ae71
+Sequential Art,http://books.toscrape.com/media/cache/ce/39/ce3942d9a10b6a17805136ace7c140fa.jpg,[51.99],[4.0],[16],Danganronpa Volume 1,09b6cc87e62c2c58
+Sequential Art,http://books.toscrape.com/media/cache/0b/b8/0bb8bd42d6b58c7966ba67472a55f905.jpg,[38.39],[2.0],[14],"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",71e36f33981ddb74
+Sequential Art,http://books.toscrape.com/media/cache/9d/1d/9d1d68362670066b155936e37d61bc5b.jpg,[37.92],[2.0],[16],"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",bdf415fd484ea8a7
+Sequential Art,http://books.toscrape.com/media/cache/b6/6a/b66a733a0fd2c0ed2cffaf5d2d9dd146.jpg,[37.34],[4.0],[14],"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",047097293bb4d1c0
+Sequential Art,http://books.toscrape.com/media/cache/3e/61/3e611e2228ffe66b05f202cd3da0359c.jpg,[53.9],[1.0],[14],"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",92275cedf6d8ee15
+Sequential Art,http://books.toscrape.com/media/cache/51/e4/51e472da0b7be65921345af6d4ca9e51.jpg,[41.62],[4.0],[15],"Fables, Vol. 1: Legends in Exile (Fables #1)",65d034adf80834b7
+Sequential Art,http://books.toscrape.com/media/cache/1e/38/1e381319aaf7cf69c27a5171520d53fe.jpg,[15.38],[5.0],[15],Batman: The Dark Knight Returns (Batman),47271d8e08b5d31c
+Sequential Art,http://books.toscrape.com/media/cache/c3/d2/c3d2356443efca9bcad78eba8d249fc1.jpg,[33.14],[1.0],[15],The Shadow Hero (The Shadow Hero),d6361d16212664ed
+Sequential Art,http://books.toscrape.com/media/cache/26/a6/26a6c3227af69348c542bc4e094279a4.jpg,[36.5],[2.0],[15],Batman: The Long Halloween (Batman),7edc0527cf782e19
+Sequential Art,http://books.toscrape.com/media/cache/08/e3/08e3fff11713d162620c920a2574e149.jpg,[47.82],[3.0],[14],Robin War,85b2176b3b194030
+Sequential Art,http://books.toscrape.com/media/cache/53/ea/53ead08572cc44510da38edf559722d1.jpg,[35.43],[4.0],[14],"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",394f6d30cafc3edb
+Sequential Art,http://books.toscrape.com/media/cache/31/32/3132ce8535ec612bf8588a5bc62998d4.jpg,[11.89],[5.0],[14],Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),ac8e3949d284e9a9
+Sequential Art,http://books.toscrape.com/media/cache/ac/07/ac07aa5cfd42e6192bb801a749263bba.jpg,[25.38],[2.0],[14],Through the Woods,6e44bcbeac7f4360
+Sequential Art,http://books.toscrape.com/media/cache/3f/97/3f97ab9d27352e8dd24671c945b1c5ac.jpg,[33.95],[4.0],[9],"Fruits Basket, Vol. 9 (Fruits Basket #9)",97187f5cf0385da3
+Sequential Art,http://books.toscrape.com/media/cache/bd/b8/bdb8adf93cb0a6778930ccd543dd9b37.jpg,[10.9],[2.0],[14],"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",5319169a72714c62
+Sequential Art,http://books.toscrape.com/media/cache/36/36/3636bc73e33a70300d8265667373d622.jpg,[48.8],[3.0],[14],Art Ops Vol. 1,ffdc825785c0ede8
+Sequential Art,http://books.toscrape.com/media/cache/7a/23/7a2319e460168eff8d91828ff380849c.jpg,[25.48],[2.0],[14],"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",31e2e2d9cca3778f
+Sequential Art,http://books.toscrape.com/media/cache/cf/cf/cfcfb88039ddab7d4ae399246529e401.jpg,[14.1],[5.0],[8],Roller Girl,aeb51dfbe8aeec59
+Sequential Art,http://books.toscrape.com/media/cache/dc/f7/dcf7314eb8526366ae9179d1f94bc78e.jpg,[32.01],[2.0],[14],Batman: Europa,bf68dcb5fad3cc8c
+Sequential Art,http://books.toscrape.com/media/cache/95/4b/954b63f24b0e4c1c5ce494b33f694b73.jpg,[57.62],[5.0],[14],El Deafo,27c5968fe43cc06e
+Sequential Art,http://books.toscrape.com/media/cache/30/d0/30d033fe3d7be21522498ce2b30d58d6.jpg,[51.51],[2.0],[14],Lowriders to the Center of the Earth (Lowriders in Space #2),a10c7515834240f3
+Sequential Art,http://books.toscrape.com/media/cache/c3/36/c3366ab246bf5e4baec15cdf55915b69.jpg,[19.57],[1.0],[7],"Fruits Basket, Vol. 7 (Fruits Basket #7)",de6d7645f192d517
+Sequential Art,http://books.toscrape.com/media/cache/c7/11/c7117547293ca3bb7a6a78e6603f2f8e.jpg,[36.39],[3.0],[6],"Death Note, Vol. 6: Give-and-Take (Death Note #6)",6e06d0f00f6da20f
+Sequential Art,http://books.toscrape.com/media/cache/93/d9/93d98563d32936ffd8db2c19f7857478.jpg,[52.41],[1.0],[5],"Death Note, Vol. 5: Whiteout (Death Note #5)",1c0a38899c82b60a
+Sequential Art,http://books.toscrape.com/media/cache/cd/b5/cdb5bd3a70cd857879120b4a90192bda.jpg,[20.96],[4.0],[6],"Fruits Basket, Vol. 6 (Fruits Basket #6)",97258f576d4bb672
+Sequential Art,http://books.toscrape.com/media/cache/8e/25/8e259f84683adbaa30452df5aaa142b3.jpg,[16.33],[1.0],[5],"Fruits Basket, Vol. 5 (Fruits Basket #5)",3fd83dcf37bf1bc0
+Sequential Art,http://books.toscrape.com/media/cache/df/96/df96b9a9739d2421620bfb3622f3c2d0.jpg,[55.55],[5.0],[3],"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",91eb9605998a7c03
+Sequential Art,http://books.toscrape.com/media/cache/33/cb/33cb44fb2984e4d09dc2263c50b36927.jpg,[14.41],[3.0],[3],"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",a33ed2e6068df53e
+Sequential Art,http://books.toscrape.com/media/cache/77/0b/770bf7bcb38eaacc6a9392dd0b7af1e4.jpg,[50.44],[4.0],[4],"Fruits Basket, Vol. 4 (Fruits Basket #4)",8fff1084aa085a13
+Sequential Art,http://books.toscrape.com/media/cache/20/99/20995345e7a87cdfb4503283ae991e84.jpg,[27.88],[2.0],[4],"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",df53c2948b32bde3
+Sequential Art,http://books.toscrape.com/media/cache/9d/5f/9d5f4a231a2ee898ed76f603b3e40163.jpg,[39.13],[1.0],[3],Persepolis: The Story of a Childhood (Persepolis #1-2),cb62418129b864a3
+Sequential Art,http://books.toscrape.com/media/cache/1b/8b/1b8b733db667fc3a7bbca0d65fa078f1.jpg,[43.63],[3.0],[3],Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),9707989a439757b4
+Sequential Art,http://books.toscrape.com/media/cache/55/89/5589eb7a8127d04add1c4205186d91d4.jpg,[21.57],[5.0],[3],"Saga, Volume 3 (Saga (Collected Editions) #3)",7b870bf85d01c2dc
+Sequential Art,http://books.toscrape.com/media/cache/85/d2/85d2821dbc2d274f516582449199015e.jpg,[45.17],[2.0],[3],"Fruits Basket, Vol. 3 (Fruits Basket #3)",d5f5a122a593b580
+Sequential Art,http://books.toscrape.com/media/cache/a9/10/a9105d5dbdc6a339c21d6635b3dc1697.jpg,[42.72],[1.0],[3],"Grayson, Vol 3: Nemesis (Grayson #3)",4f6985aca357ae09
+Sequential Art,http://books.toscrape.com/media/cache/39/99/3999845b6800427aad3d45041586a171.jpg,[31.45],[3.0],[3],Original Fake,c59283b05905c853
+Sequential Art,http://books.toscrape.com/media/cache/b3/48/b3481a7849a7d98131ced57476bb2f26.jpg,[54.81],[1.0],[2],"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",276dc716b1da8899
+Sequential Art,http://books.toscrape.com/media/cache/71/82/718278fb0edaa50e1f1930cdd2048d87.jpg,[38.02],[2.0],[3],Awkward,1d89a2aa9f6ce50f
+Sequential Art,http://books.toscrape.com/media/cache/86/bb/86bb13ef73474e6e96acea6e5ff44231.jpg,[49.31],[1.0],[3],"Black Butler, Vol. 1 (Black Butler #1)",15f415d436888b2d
+Sequential Art,http://books.toscrape.com/media/cache/87/36/8736be56d958f5d8d855108afb206c9f.jpg,[11.64],[5.0],[2],"Fruits Basket, Vol. 2 (Fruits Basket #2)",c0db71f6bb14db11
+Sequential Art,http://books.toscrape.com/media/cache/bd/1e/bd1e9e86b838676121bc4954ab40712a.jpg,[11.75],[3.0],[2],"Saga, Volume 2 (Saga (Collected Editions) #2)",9189fd009df41d0e
+Sequential Art,http://books.toscrape.com/media/cache/70/da/70daa09e4ddebe1d60f50720c0b49976.jpg,[46.96],[5.0],[1],"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",3cdca3b4a93980f5
+Sequential Art,http://books.toscrape.com/media/cache/86/01/860132d9f65dd9df2143fb9071a40115.jpg,[28.48],[1.0],[1],"Saga, Volume 1 (Saga (Collected Editions) #1)",4f64568dfefa3ce7
+Sequential Art,http://books.toscrape.com/media/cache/03/0a/030af2f71cc40b03f7d79a0929ac9c18.jpg,[42.12],[3.0],[1],"Skip Beat!, Vol. 01 (Skip Beat! #1)",2ac720f76384c57e
+Sequential Art,http://books.toscrape.com/media/cache/e5/0f/e50f35f47d84efaa739eff59b3dd4f7c.jpg,[10.64],[3.0],[1],The Complete Maus (Maus #1-2),3301af038a720587
+Sequential Art,http://books.toscrape.com/media/cache/35/18/3518d80c6b73f9c76e9713af42b9c8e1.jpg,[54.12],[3.0],[1],"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",5faefdc861684eb1
+Sequential Art,http://books.toscrape.com/media/cache/2a/29/2a296946d7a2ed3829e57d6b155be43b.jpg,[36.52],[2.0],[1],"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",dac9d1e654fac737
+Sequential Art,http://books.toscrape.com/media/cache/31/3f/313fb7d006c8c507d63ce7e96b56d925.jpg,[18.51],[4.0],[1],"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",09d26b5f819c6a36
+Sequential Art,http://books.toscrape.com/media/cache/03/c5/03c51e2b5bf51a3f55deecbf8c9e8515.jpg,[40.28],[5.0],[1],"Fruits Basket, Vol. 1 (Fruits Basket #1)",72e6fbf4f6382557
+Sequential Art,http://books.toscrape.com/media/cache/eb/20/eb2063bd8d636cb8200c4b2c7cb6c773.jpg,[56.76],[4.0],[1],"Giant Days, Vol. 1 (Giant Days #1-4)",eb0fe24bbc845ecc
+Sequential Art,http://books.toscrape.com/media/cache/66/97/6697a03eedbac77c2e957788e48b70a8.jpg,[45.24],[3.0],[1],"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",6fe02600f322a0a9
+Sequential Art,http://books.toscrape.com/media/cache/99/f5/99f511d2d38ef356701341d405a1cca2.jpg,[39.39],[4.0],[1],"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",35a60467893aa168
+Sequential Art,http://books.toscrape.com/media/cache/27/33/27334267037a79caed4d7b0092d59fb5.jpg,[29.87],[3.0],[1],"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",326825e02a198cf6
+Sequential Art,http://books.toscrape.com/media/cache/87/b3/87b3b5ff42301d1c7eeb0c81055f1633.jpg,[21.71],[4.0],[1],"Paper Girls, Vol. 1 (Paper Girls #1-5)",bcbcbcf0f6ed196f
+Sequential Art,http://books.toscrape.com/media/cache/30/98/309814b6eeba469f4c741147aaaa076a.jpg,[57.06],[4.0],[1],"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",bfd5e1701c862ac3
+Sequential Art,http://books.toscrape.com/media/cache/48/b0/48b07e2daa02d7e5485aa546dec5a25e.jpg,[34.65],[5.0],[1],"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",099fae4a0705d63b
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Cultural,http://books.toscrape.com/media/cache/8a/94/8a94b2ba501119af0d3520b94daf8c20.jpg,[36.58],[1.0],[15],Amid the Chaos,bb8245f52c7cce8f
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Spirituality,http://books.toscrape.com/media/cache/da/0c/da0ca35421a5120b2109028e44a53f56.jpg,[32.24],[5.0],[16],The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,7d6d2a6c0276f81b
+Spirituality,http://books.toscrape.com/media/cache/2b/1b/2b1bfecae9d512cb6ee943ccf786216f.jpg,[17.66],[5.0],[18],The Four Agreements: A Practical Guide to Personal Freedom,6258a1f6a6dcfe50
+Spirituality,http://books.toscrape.com/media/cache/13/1b/131bca3895aa2892f400020cd939cd42.jpg,[55.65],[5.0],[4],A New Earth: Awakening to Your Life's Purpose,f6ae39568db1130e
+Spirituality,http://books.toscrape.com/media/cache/80/43/804385d2b49e2f9e26a7d88b8ccaf62d.jpg,[46.33],[2.0],[7],Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,48cb52d78c992487
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Spirituality,http://books.toscrape.com/media/cache/87/cd/87cd2aa5c4e38244ffcb17b84b0f6efd.jpg,[37.8],[2.0],[15],Chasing Heaven: What Dying Taught Me About Living,513271dadc1322ae
+Spirituality,http://books.toscrape.com/media/cache/91/1a/911a12f954fc65fc4cc0e8a8f8b30750.jpg,[20.91],[1.0],[9],If I Gave You God's Phone Number....: Searching for Spirituality in America,8fab4c4f6f82a4ce
+category,image_url,price,rating,stock,title,upc
+Biography,../../media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,../../media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Crime,../../media/cache/2b/50/2b50fa031b2411a94bc68de0bbdd96fb.jpg,[10.97],[1.0],[15],The Long Shadow of Small Ghosts: Murder and Memory in an American City,abeafe151a587d3b
+Biography,../../media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Biography,../../media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Biography,../../media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+category,image_url,price,rating,stock,title,upc
+Biography,[{'image_urls': 'http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg'}],[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Biography,[{'image_urls': 'http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg'}],[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Health,[{'image_urls': 'http://books.toscrape.com/media/cache/79/84/7984ef7c568a60372f430c1ddae64034.jpg'}],[49.71],[5.0],[10],10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,96aa539bfd4c07e2
+Biography,[{'image_urls': 'http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg'}],[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Biography,[{'image_urls': 'http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg'}],[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Biography,[{'image_urls': 'http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg'}],[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Health,[{'image_urls': 'http://books.toscrape.com/media/cache/82/f3/82f3b865f19faad855ec359f86415f79.jpg'}],[52.98],[5.0],[9],The Art and Science of Low Carbohydrate Living,f9c87ccb2bc4853b
+Health,[{'image_urls': 'http://books.toscrape.com/media/cache/a7/6b/a76b04d5de0b2f8f038c9ac27f4d2a42.jpg'}],[54.07],[2.0],[14],"Eat Fat, Get Thin",047dfa57ba0bf638
+Health,[{'image_urls': 'http://books.toscrape.com/media/cache/9c/c6/9cc673854af8fd155953384b3cac334e.jpg'}],[49.05],[3.0],[16],"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",43c6a960757cf559
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Horror,http://books.toscrape.com/media/cache/79/2b/792bdeb2cf7d8efaef0e401e5a27b4da.jpg,[39.25],[2.0],[16],Security,6f78a0d744c35456
+Horror,http://books.toscrape.com/media/cache/30/05/30053f9d8549febc67059c52fca65744.jpg,[40.12],[2.0],[14],Doctor Sleep (The Shining #2),bf5de316a5e9a4ab
+Horror,http://books.toscrape.com/media/cache/99/ef/99ef2f3987ee016bdd120a4579ef98f5.jpg,[10.56],[3.0],[14],Pet Sematary,af58a74e4b2a23a0
+Horror,http://books.toscrape.com/media/cache/84/cc/84cc7f93a8c6c766a6297a23227e68e8.jpg,[23.4],[1.0],[14],The Loney,2d88a31f325dfd3b
+Horror,http://books.toscrape.com/media/cache/bb/c0/bbc0bdad3ad7f390017ea66bb7019579.jpg,[21.36],[1.0],[15],Follow You Home,8585760646e3aa2a
+Horror,http://books.toscrape.com/media/cache/91/98/9198cedbd37561f2aa343d3eb04ee703.jpg,[36.97],[5.0],[12],Psycho: Sanitarium (Psycho #1.5),b8d7b3f5c7a95d65
+Horror,http://books.toscrape.com/media/cache/b1/f2/b1f25fa4623b3ee2db6fb6d6e27c6fb5.jpg,[35.63],[5.0],[5],Dracula the Un-Dead,e46b1074b99ac4b6
+Horror,http://books.toscrape.com/media/cache/d2/d8/d2d818d6654086560072fe1d42189636.jpg,[47.51],[4.0],[4],Needful Things,70b585c9d0f15725
+Horror,http://books.toscrape.com/media/cache/b8/84/b8843e0c3fbadb1682b095c99eda7f7a.jpg,[12.75],[4.0],[4],Night Shift (Night Shift #1-20),869d20b3b8128230
+Horror,http://books.toscrape.com/media/cache/f9/8b/f98bdf42af5e223bc0f6ea6bd0a48a53.jpg,[57.86],[2.0],[3],The Stand,49f24193f0b961e6
+Horror,http://books.toscrape.com/media/cache/d3/55/d35568710e773adf06a0bc756a99f66d.jpg,[49.56],[4.0],[4],'Salem's Lot,6e9403f00acd6752
+Horror,http://books.toscrape.com/media/cache/f9/40/f9409b5717cc44f29aa444d85ad26bdc.jpg,[25.01],[3.0],[4],It,670a2773607d785d
+Horror,http://books.toscrape.com/media/cache/cc/fb/ccfb8bb0f63377a67fb0a39d513f6cab.jpg,[34.79],[2.0],[4],Misery,81d4191030b9704b
+Horror,http://books.toscrape.com/media/cache/20/c2/20c2ff61355569b4f84e2f847e37db25.jpg,[54.89],[1.0],[3],House of Leaves,557c03c284be1bf2
+Horror,http://books.toscrape.com/media/cache/9a/91/9a911066cb404976bcc25dbc8817432a.jpg,[49.47],[3.0],[3],The Girl with All the Gifts,92dcc54a27107a37
+Horror,http://books.toscrape.com/media/cache/4a/ce/4acec5ebebf374e7a84a5d8c74ee5752.jpg,[23.37],[3.0],[5],Red Dragon (Hannibal Lecter #1),e958ae92f328c181
+Horror,http://books.toscrape.com/media/cache/03/83/0383a7f9cce4ab8fa1c5db6e69b169c6.jpg,[48.64],[1.0],[12],Can You Keep a Secret? (Fear Street Relaunch #4),d069086944f2e330
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Thriller,http://books.toscrape.com/media/cache/27/92/2792ef951651ff1eae40a410cac41e0f.jpg,[12.84],[1.0],[19],In Her Wake,23356462d1320d61
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Thriller,http://books.toscrape.com/media/cache/f2/f1/f2f19169771a8a8e1a4b72f22e799de8.jpg,[43.61],[5.0],[14],You (You #1),024387ca4cafd5cc
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Thriller,http://books.toscrape.com/media/cache/5b/3e/5b3e36ce7c82e9dd8b416a23531c0121.jpg,[39.24],[1.0],[14],The 14th Colony (Cotton Malone #11),1b8187fa4bf6ab05
+Thriller,http://books.toscrape.com/media/cache/8d/1f/8d1f11673fbe46f47f27b9a4c8efbf8a.jpg,[59.71],[3.0],[4],The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),9c4d061c1e2fe6bf
+Thriller,http://books.toscrape.com/media/cache/b1/5b/b15b4c864b762133cdaf69b58ba55d76.jpg,[31.49],[4.0],[5],Killing Floor (Jack Reacher #1),8dde2ff3f6fcc0a3
+Thriller,http://books.toscrape.com/media/cache/15/d4/15d444bf7fc91c7ced84e73ec99d711d.jpg,[18.32],[2.0],[6],Give It Back,012170e4fc87ace0
+Thriller,http://books.toscrape.com/media/cache/4b/80/4b80a3d9148e224ed4d6cd4d33f43728.jpg,[23.82],[5.0],[18],The Elephant Tree,5dada2b7be26bd03
+Thriller,http://books.toscrape.com/media/cache/9c/aa/9caacda3ff43984447ee22712e7e9ca9.jpg,[34.93],[2.0],[4],Far From True (Promise Falls Trilogy #2),ad15a9a139919918
+Thriller,http://books.toscrape.com/media/cache/7f/fd/7ffdc9c4b7bf965990c59460da9b66b7.jpg,[13.82],[2.0],[14],The Guilty (Will Robie #4),847935fc68707426
+Thriller,http://books.toscrape.com/media/cache/a5/85/a58571db229f2e8f75ea38861eca7f39.jpg,[52.22],[4.0],[18],Behind Closed Doors,be5cc846f45496fb
+Thriller,http://books.toscrape.com/media/cache/42/a3/42a345bdcb3e13d5922ff79cd1c07d0e.jpg,[15.77],[1.0],[3],The Travelers,2b685187f55c5d31
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Childrens,http://books.toscrape.com/media/cache/af/2f/af2fe2419ea136f2cd567aa92082c3ae.jpg,[54.64],[3.0],[19],Birdsong: A Story in Pictures,9528d0948525bf5f
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Childrens,http://books.toscrape.com/media/cache/63/6b/636b836f5c3d67b9cda1948f5ca08694.jpg,[13.47],[3.0],[15],Little Red,4aa03792b50f0b22
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Childrens,http://books.toscrape.com/media/cache/ea/1f/ea1f22fa3179f3f84fbadd24fe89a1fd.jpg,[23.57],[3.0],[14],Rain Fish,a6454e329f872b78
+Childrens,http://books.toscrape.com/media/cache/d0/87/d0876dcd1a6530a4cb54903aad7a3e28.jpg,[36.89],[1.0],[18],The Bear and the Piano,9f6568e9c95f60b0
+Childrens,http://books.toscrape.com/media/cache/e6/5e/e65e45701ce6d2da8c5cf31d6208ff02.jpg,[18.28],[2.0],[14],Once Was a Time,e34efcc824685332
+Childrens,http://books.toscrape.com/media/cache/40/d7/40d7f9433c2f23370659c925a45fdcad.jpg,[22.08],[2.0],[14],Twenty Yawns,1d6443ffba9dfd80
+Childrens,http://books.toscrape.com/media/cache/0f/65/0f65a1f2a3705c67b3d2a787ab3e8b99.jpg,[12.96],[5.0],[14],Walt Disney's Alice in Wonderland,6a31307a81e8f3a8
+Childrens,http://books.toscrape.com/media/cache/7b/b9/7bb9386b43f2aeaa6eaf042df1b4e96f.jpg,[52.87],[3.0],[7],"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",9639e89d20228e6e
+Childrens,http://books.toscrape.com/media/cache/49/0e/490e049133ee9f398e6a70f25c12e308.jpg,[58.08],[4.0],[15],The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,37c0cb19713d8dda
+Childrens,http://books.toscrape.com/media/cache/7b/fd/7bfde4a3d6793f13e9a2d8851a398847.jpg,[56.13],[1.0],[16],The Secret of Dreadwillow Carse,b5ea0b5dabed25a8
+Childrens,http://books.toscrape.com/media/cache/6c/df/6cdf7a3ee6cfd5ecbcfd37bd7a5c42e3.jpg,[35.96],[4.0],[7],The Whale,0ff9d10864db8364
+Childrens,http://books.toscrape.com/media/cache/b9/43/b9437eda691f483d2174a1b94c8c9d06.jpg,[25.08],[1.0],[9],Nap-a-Roo,913e7109cec0cb4c
+Childrens,http://books.toscrape.com/media/cache/34/b2/34b2631bafd148bcd8dcd850a4b75971.jpg,[26.33],[5.0],[3],The Day the Crayons Came Home (Crayons),b22362b434e8ee62
+Childrens,http://books.toscrape.com/media/cache/ff/f6/fff64acb3c65cbea2ac9209c2a57af17.jpg,[43.59],[5.0],[3],The Lonely Ones,cf2f27fdf94ba20e
+Childrens,http://books.toscrape.com/media/cache/ef/d3/efd3fd5390be3a440e28b03b5bb0fd95.jpg,[48.77],[1.0],[3],The Thing About Jellyfish,3d15714d4d3d15dd
+Childrens,http://books.toscrape.com/media/cache/42/48/424876ee529de5b557ebd69286c87343.jpg,[56.07],[3.0],[3],The Wild Robot,75fed6a47f69859d
+Childrens,http://books.toscrape.com/media/cache/89/9a/899a07816ced14262169345493bbbe51.jpg,[22.54],[1.0],[5],Maybe Something Beautiful: How Art Transformed a Neighborhood,81c68492ccd72941
+Childrens,http://books.toscrape.com/media/cache/b6/ba/b6ba2393c312701f1471db91eb73284d.jpg,[32.38],[1.0],[7],Playing from the Heart,68008abf6409dfde
+Childrens,http://books.toscrape.com/media/cache/95/6b/956b5a8927463f4ea0774e2469e27ce5.jpg,[34.41],[2.0],[7],Raymie Nightingale,31c56c4d0fe19340
+Childrens,http://books.toscrape.com/media/cache/34/1e/341e9af2106811a4ca8e56ce92762580.jpg,[53.95],[3.0],[14],Luis Paints the World,5b43cae640f2338a
+Childrens,http://books.toscrape.com/media/cache/1a/53/1a53aab1bf630cb7da16181d405987cc.jpg,[10.62],[1.0],[3],Counting Thyme,157f693d9e600ccc
+Childrens,http://books.toscrape.com/media/cache/38/91/38916e718a4a117d62cbb8e10c7443ff.jpg,[10.79],[4.0],[3],Green Eggs and Ham (Beginner Books B-16),621e2c310cec8d32
+Childrens,http://books.toscrape.com/media/cache/9f/9c/9f9c8afb3befd7ab2629c76983445766.jpg,[37.52],[2.0],[3],Horrible Bear!,cc1ac978a6835ef6
+Childrens,http://books.toscrape.com/media/cache/9d/dd/9ddd21ce54bf11eb84bf6986decb9915.jpg,[28.54],[3.0],[3],Red: The True Story of Red Riding Hood,4c8ece50736f9e88
+Childrens,http://books.toscrape.com/media/cache/3c/45/3c4578b3f58e5b4afea86f886b201fd8.jpg,[16.26],[2.0],[3],The Cat in the Hat (Beginner Books B-1),b7f475238ed50429
+Childrens,http://books.toscrape.com/media/cache/96/df/96dfbe6533f9705d2cdccc16310910ee.jpg,[22.85],[3.0],[1],Charlie and the Chocolate Factory (Charlie Bucket #1),1774749f2cee292f
+Childrens,http://books.toscrape.com/media/cache/3c/db/3cdb7121cf09e7c5e3436cfff9834a67.jpg,[28.34],[1.0],[1],Matilda,1053fb7ee17a1f33
+Childrens,http://books.toscrape.com/media/cache/a8/9a/a89a1b7ffea60884f203877bb89f6ef4.jpg,[52.88],[4.0],[2],Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),d7b463918d3b8c39
+Childrens,http://books.toscrape.com/media/cache/5d/c7/5dc7a906a9257824ae5aca5e33dfb0cd.jpg,[10.66],[3.0],[3],Are We There Yet?,ef9c4f2465513956
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Romance,http://books.toscrape.com/media/cache/6c/84/6c84fcf7a53b02b6e763de7272934842.jpg,[25.27],[5.0],[19],Chase Me (Paris Nights #2),c2e46a2ee3b4a322
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Romance,http://books.toscrape.com/media/cache/51/86/51862681bebec59be61f36f937c71fce.jpg,[21.96],[1.0],[16],Fifty Shades Darker (Fifty Shades #2),7add3f8e49ec0826
+Romance,http://books.toscrape.com/media/cache/a4/0a/a40af95beab828af1a4757ad1ee17da3.jpg,[34.53],[5.0],[19],Black Dust,00bfed9e18bb36f3
+Romance,http://books.toscrape.com/media/cache/4b/91/4b91460323973e9e140626d00474d74c.jpg,[35.61],[3.0],[15],Doing It Over (Most Likely To #1),3a11bb962ff45b78
+Romance,http://books.toscrape.com/media/cache/b8/f9/b8f9e0169c3811f9ed145c3824208de6.jpg,[16.24],[4.0],[15],Something More Than This,ca71e72655bece85
+Romance,http://books.toscrape.com/media/cache/58/bb/58bb81b052b6ad90adcd57e95da99a50.jpg,[55.99],[2.0],[15],Suddenly in Love (Lake Haven #1),203b7f94b7d6115f
+Romance,http://books.toscrape.com/media/cache/29/3b/293bd9cd6fe1f8c82d1688aefe6cc5f7.jpg,[24.12],[1.0],[15],The Wedding Dress,623e1a180426039b
+Romance,http://books.toscrape.com/media/cache/01/a5/01a5285b17e7ec0e7e56294a8f8af28d.jpg,[15.97],[4.0],[16],First and First (Five Boroughs #3),9e28048cea8d41f7
+Romance,http://books.toscrape.com/media/cache/41/ee/41ee38c1d15f0139a3fb17b730dc4347.jpg,[33.97],[1.0],[16],Her Backup Boyfriend (The Sorensen Family #1),2a97cffe61c3c4c7
+Romance,http://books.toscrape.com/media/cache/33/72/337240d247fdf020755566e4477e17ca.jpg,[53.98],[3.0],[11],Take Me Home Tonight (Rock Star Romance #3),cf62fa272b5f0fa3
+Romance,http://books.toscrape.com/media/cache/77/54/77540d564fb77611a18b57f12a910b73.jpg,[40.83],[4.0],[12],Dirty (Dive Bar #1),df7e628bad5782b4
+Romance,http://books.toscrape.com/media/cache/3d/4d/3d4d8e92429144f6c807adc4b15b7f80.jpg,[28.82],[1.0],[14],Hold Your Breath (Search and Rescue #1),0b165bd4b9f42fd5
+Romance,http://books.toscrape.com/media/cache/7a/6a/7a6a89af2f591d86df6f7c65649463db.jpg,[13.38],[3.0],[4],Changing the Game (Play by Play #2),aaebac5fda798b1b
+Romance,http://books.toscrape.com/media/cache/d8/bd/d8bdea8d4e7db9af8e0cb1b36db448d2.jpg,[12.87],[1.0],[4],Dark Lover (Black Dagger Brotherhood #1),2b69d289279aabfd
+Romance,http://books.toscrape.com/media/cache/b0/be/b0be8b72b97ba3185f7d55235d0be76f.jpg,[59.99],[3.0],[4],The Perfect Play (Play by Play #1),9cc207168a03470d
+Romance,http://books.toscrape.com/media/cache/17/94/17940ad8d367ea5f28db57e7fc32dac9.jpg,[31.3],[1.0],[5],A Girl's Guide to Moving On (New Beginnings #2),cf3b86489890b9f2
+Romance,http://books.toscrape.com/media/cache/48/2c/482c14200688df579ab2ed0fcbddcb86.jpg,[20.9],[3.0],[7],"Sit, Stay, Love",bd087cf6a846db75
+Romance,http://books.toscrape.com/media/cache/82/aa/82aa7770711dfc5edc1f5f69a731d08b.jpg,[14.75],[5.0],[11],A Gentleman's Position (Society of Gentlemen #3),40c4bf520c17de54
+Romance,http://books.toscrape.com/media/cache/bc/21/bc214639946c501cd70ff6b752439c76.jpg,[47.67],[3.0],[11],Off the Hook (Fishing for Trouble #1),b783ce08802cd1d1
+Romance,http://books.toscrape.com/media/cache/21/53/21539e305aa09ec40b36daa43db3f2fe.jpg,[32.61],[3.0],[14],The Wedding Pact (The O'Malleys #2),c5cb9f885d8b3621
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Romance,http://books.toscrape.com/media/cache/fe/a9/fea9278c15f5ad41f5d478196cf4132d.jpg,[56.43],[1.0],[4],A Walk to Remember,aead11697d14ea36
+Romance,http://books.toscrape.com/media/cache/f1/49/f1498baf6cb055e0a9188d5e57c5f686.jpg,[34.74],[4.0],[1],Imperfect Harmony,f28f7299d38c0932
+Romance,http://books.toscrape.com/media/cache/a6/38/a63804d7adf6fb90b70b226702cb4f7b.jpg,[45.43],[1.0],[3],The Obsession,ee441c8e027caa66
+Romance,http://books.toscrape.com/media/cache/c2/9d/c29dbb9c163edb0e885f897063d619f3.jpg,[12.25],[1.0],[3],The Purest Hook (Second Circle Tattoos #3),969f6c7e86554814
+Romance,http://books.toscrape.com/media/cache/7a/13/7a13d10c37d4b975145bfa493f69fbf0.jpg,[11.1],[3.0],[3],Reservations for Two,ecdf73ee66c33b17
+Romance,http://books.toscrape.com/media/cache/a3/50/a35037c93fbc48a1a62dc74c71f62779.jpg,[39.77],[3.0],[1],Where Lightning Strikes (Bleeding Stars #3),def389ddfda6991b
+Romance,http://books.toscrape.com/media/cache/c1/0a/c10a83087db24c35f88555f2b8511e9e.jpg,[27.41],[2.0],[3],Best of My Love (Fool's Gold #20),67dea6c75d6a1075
+Romance,http://books.toscrape.com/media/cache/bb/8b/bb8b7e644c005aba53d55240b54952ae.jpg,[48.71],[1.0],[1],This One Moment (Pushing Limits #1),d6d98d3508c30f57
+Romance,http://books.toscrape.com/media/cache/98/85/9885b87053dcd05803ef58e9817e935a.jpg,[58.99],[3.0],[1],Listen to Me (Fusion #1),6e712ea24e77bd96
+Romance,http://books.toscrape.com/media/cache/2e/fa/2efa13faabc899f61c2a181ab0de7ef8.jpg,[38.92],[2.0],[1],My Perfect Mistake (Over the Top #1),fd78f89878479f56
+Romance,http://books.toscrape.com/media/cache/1e/c9/1ec952e4d14d37dc7b6d74fa07f1ea37.jpg,[28.34],[2.0],[1],"Rhythm, Chord & Malykhin",9efb397067eb7e8a
+Romance,http://books.toscrape.com/media/cache/7d/18/7d18f04705f25aa7659b2aa6153c1a4f.jpg,[37.26],[4.0],[1],Bounty (Colorado Mountain #7),abc0b15f2c907ff0
+Romance,http://books.toscrape.com/media/cache/b6/42/b642b7415804929612c29d87656edea1.jpg,[41.24],[1.0],[1],Charity's Cross (Charles Towne Belles #4),a96404cb928895f3
+Romance,http://books.toscrape.com/media/cache/b6/bd/b6bd7cd6500f96e717c147deb8d89af2.jpg,[47.09],[5.0],[1],Deep Under (Walker Security #1),0072b94dfa30608e
+Romance,http://books.toscrape.com/media/cache/ba/a6/baa64eeda5e10952da4610f8efc1be76.jpg,[39.24],[3.0],[1],Fighting Fate (Fighting #6),6390772a3094939d
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Thriller,http://books.toscrape.com/media/cache/7f/fd/7ffdc9c4b7bf965990c59460da9b66b7.jpg,[13.82],[2.0],[14],The Guilty (Will Robie #4),847935fc68707426
+Thriller,http://books.toscrape.com/media/cache/27/92/2792ef951651ff1eae40a410cac41e0f.jpg,[12.84],[1.0],[19],In Her Wake,23356462d1320d61
+Thriller,http://books.toscrape.com/media/cache/4b/80/4b80a3d9148e224ed4d6cd4d33f43728.jpg,[23.82],[5.0],[18],The Elephant Tree,5dada2b7be26bd03
+Thriller,http://books.toscrape.com/media/cache/9c/aa/9caacda3ff43984447ee22712e7e9ca9.jpg,[34.93],[2.0],[4],Far From True (Promise Falls Trilogy #2),ad15a9a139919918
+Thriller,http://books.toscrape.com/media/cache/f2/f1/f2f19169771a8a8e1a4b72f22e799de8.jpg,[43.61],[5.0],[14],You (You #1),024387ca4cafd5cc
+Thriller,http://books.toscrape.com/media/cache/a5/85/a58571db229f2e8f75ea38861eca7f39.jpg,[52.22],[4.0],[18],Behind Closed Doors,be5cc846f45496fb
+Thriller,http://books.toscrape.com/media/cache/b1/5b/b15b4c864b762133cdaf69b58ba55d76.jpg,[31.49],[4.0],[5],Killing Floor (Jack Reacher #1),8dde2ff3f6fcc0a3
+Thriller,http://books.toscrape.com/media/cache/5b/3e/5b3e36ce7c82e9dd8b416a23531c0121.jpg,[39.24],[1.0],[14],The 14th Colony (Cotton Malone #11),1b8187fa4bf6ab05
+Thriller,http://books.toscrape.com/media/cache/42/a3/42a345bdcb3e13d5922ff79cd1c07d0e.jpg,[15.77],[1.0],[3],The Travelers,2b685187f55c5d31
+Thriller,http://books.toscrape.com/media/cache/15/d4/15d444bf7fc91c7ced84e73ec99d711d.jpg,[18.32],[2.0],[6],Give It Back,012170e4fc87ace0
+Thriller,http://books.toscrape.com/media/cache/8d/1f/8d1f11673fbe46f47f27b9a4c8efbf8a.jpg,[59.71],[3.0],[4],The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),9c4d061c1e2fe6bf
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+category,image_url,price,rating,stock,title,upc
+Biography,http://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg,[48.19],[3.0],[7],Benjamin Franklin: An American Life,5b546a46a86a9d8c
+Biography,http://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg,[39.55],[1.0],[7],The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,57f85720e54d6442
+Biography,http://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg,[21.15],[2.0],[11],"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",b06599b108e83f98
+Biography,http://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg,[16.85],[2.0],[15],Louisa: The Extraordinary Life of Mrs. Adams,d69dd8dac66f9f84
+Biography,http://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg,[42.57],[3.0],[3],The Rise of Theodore Roosevelt (Theodore Roosevelt #1),1a5044d233936b1a
+Travel,http://books.toscrape.com/media/cache/fe/8a/fe8af6ceec7718986380c0fde9b3b34f.jpg,[49.43],[4.0],[15],Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,ce60436f52c5ee68
+Travel,http://books.toscrape.com/media/cache/c7/1a/c71a85dbf8c2dbc75cb271026618477c.jpg,[48.87],[3.0],[14],See America: A Celebration of Our National Parks & Treasured Sites,f9705c362f070608
+Travel,http://books.toscrape.com/media/cache/c9/9a/c99a7a05537cd842eb4db83d537e3a4d.jpg,[38.95],[3.0],[3],Neither Here nor There: Travels in Europe,747cf7fca2ccdbd4
+Travel,http://books.toscrape.com/media/cache/8b/81/8b81cd9b2c8f89a12099a80bed1c4911.jpg,[56.88],[4.0],[6],A Year in Provence (Provence #1),9e60929f521fa280
+Travel,http://books.toscrape.com/media/cache/45/21/4521c581ba727f5c835e34860cbf53e5.jpg,[37.33],[3.0],[7],Under the Tuscan Sun,a94350ee74deaa07
+Travel,http://books.toscrape.com/media/cache/d5/82/d582f6b0261c2842330e893962276295.jpg,[30.54],[1.0],[6],The Great Railway Bazaar,48736df57e7bec9f
+Travel,http://books.toscrape.com/media/cache/6c/e3/6ce3003931701c7a3fd5354917538ea9.jpg,[44.34],[2.0],[7],A Summer In Europe,cc1936a9f4e93477
+Travel,http://books.toscrape.com/media/cache/26/f5/26f5d20239a45046e756c6d09611b3ea.jpg,[23.21],[1.0],[3],The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),366a236aa1ea6f07
+Travel,http://books.toscrape.com/media/cache/ca/30/ca30b1afe1e76ce7ba1db8176d398e53.jpg,[36.94],[2.0],[8],Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,1809259a5a5f1d8d
+Travel,http://books.toscrape.com/media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg,[45.17],[2.0],[19],It's Only the Himalayas,a22124811bfa8350
+Travel,http://books.toscrape.com/media/cache/9e/10/9e106f81f65b293e488718a4f54a6a3f.jpg,[26.08],[5.0],[1],"1,000 Places to See Before You Die",228ba5e7577e1d49

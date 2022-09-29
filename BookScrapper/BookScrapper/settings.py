@@ -98,19 +98,21 @@ DOWNLOAD_DELAY = 1
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-CATEGORIES = [  "Travel" , "Mystery" , "Historical-Fiction" , "Sequential-Art" , 
-                "Classics" , "Philosophy" , "Romance" , "Womens-Fiction" , "Fiction" , 
-                "Childrens" , "Religion" , "Nonfiction" , "Music" , "Default" , 
-                "Science-Fiction" , "Sports-and-Games" , "Add-a-comment" , "Fantasy" , 
-                "New-Adult" , "Young-Adult" , "Science" , "Poetry" , "Paranormal" , "Art" , 
-                "Psychology" , "Autobiography" , "Parenting" , "Adult-Fiction" , "Humor" , 
-                "Horror" , "History" , "Food-and-Drink" , "Christian-Fiction" , "Business" , 
-                "Thriller" , "Contemporary" , "Spirituality" , "Academic" , "Self-Help" , 
-                "Historical" , "Christian" , "Suspense" , "Short-Stories" , "Novels" , 
-                "Health" , "Politics" , "Cultural" , "Erotica" , "Crime"]
+# CATEGORIES = [  "Travel" , "Mystery" , "Historical-Fiction" , "Sequential-Art" , 
+#                 "Classics" , "Philosophy" , "Romance" , "Womens-Fiction" , "Fiction" , 
+#                 "Childrens" , "Religion" , "Nonfiction" , "Music" , "Default" , 
+#                 "Science-Fiction" , "Sports-and-Games" , "Add-a-comment" , "Fantasy" , 
+#                 "New-Adult" , "Young-Adult" , "Science" , "Poetry" , "Paranormal" , "Art" , 
+#                 "Psychology" , "Autobiography" , "Parenting" , "Adult-Fiction" , "Humor" , 
+#                 "Horror" , "History" , "Food-and-Drink" , "Christian-Fiction" , "Business" , 
+#                 "Thriller" , "Contemporary" , "Spirituality" , "Academic" , "Self-Help" , 
+#                 "Historical" , "Christian" , "Suspense" , "Short-Stories" , "Novels" , 
+#                 "Health" , "Politics" , "Cultural" , "Erotica" , "Crime"]
 
-SEARCHED_CATEGORY = ['biography']
-SEARCHED_CATEGORY.append(choice(CATEGORIES).lower())
-print(SEARCHED_CATEGORY)
+# CATEGORIES =[]
 
-URLS_LIST = []
+# SEARCHED_CATEGORY = ['biography']
+# SEARCHED_CATEGORY.append(choice(CATEGORIES).lower())
+# print(SEARCHED_CATEGORY)
+
+# URLS_LIST = []
